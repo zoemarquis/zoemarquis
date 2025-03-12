@@ -174,7 +174,7 @@ Hi there! 👋 I'm excited to share my academic journey with you through my GitH
 
 
 
-<a name="contact">## Contact</a>
+## <a name="contact">Contact</a>
 
 - 📧 [Email](zoe.marquis.zm@gmail.com)
 - 🌐 [LinkedIn](www.linkedin.com/in/marquis-zoe)
