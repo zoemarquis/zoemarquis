@@ -17,10 +17,7 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 ---
 
-
-### MASTER EN INFORMATIQUE - SCIENCE DES DONNÉES ET SYSTÈMES COMPLEXES
-
-<br>
+### MASTER INFORMATIQUE - SCIENCE DES DONNÉES ET SYSTÈMES COMPLEXES
 
 - ### Master 2 
 
@@ -38,6 +35,10 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
   >   - [Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
   >   - [Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
 
+
+- ### Master 1
+
+### LICENCE INFORMATIQUE
 
 ---
 
