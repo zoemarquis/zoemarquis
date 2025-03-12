@@ -1,25 +1,32 @@
 [🇫🇷 Version Française](#french-version)  
 [🇬🇧 English version](#english-version)
 
+<br>
+<br>
+<br>
+
 ---
 
 # 🇫🇷 **Version Française**
 
-## Bienvenue sur mon profil GitHub !
+<br>
+
+<span style="font-size: 24px;">Bienvenue sur mon profil GitHub !</span>
+
 
 Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à travers mes projets GitHub. Vous y trouverez une collection de mes projets universitaires, mettant en avant mes compétences dans divers langages de programmation et technologies. N'hésitez pas à explorer et à plonger dans le code !
 
 ---
 
-### MASTER EN INFORMATIQUE - SCIENCE DES DONNÉES ET SYSTÈMES COMPLEXES
+<span style="font-size: 20px; font-weight: bold;"> MASTER EN INFORMATIQUE - SCIENCE DES DONNÉES ET SYSTÈMES COMPLEXES</span>
 
-#### Master 2 
+<span style="font-size: 20px;"> Master 2 </span>
 
-##### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement
+### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement
 
 - **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : Apprentissage par Renforcement (Q-Learning, PPO, etc.)
 - **Langage de Programmation** : Python
-- 🚧 **Librairies**
+- 🚧 **Librairies** :
 - 🚧 **Outils** :
   - Jupyter Notebooks (🚧 pour les stats, le RL, ...)
   - PostgreSQL pour la gestion de base de données
@@ -37,26 +44,32 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 ---
 
 
+<br>
+<br>
+<br>
 
 ---
 
 # 🇬🇧 **English Version**
 
-## Welcome to My GitHub Profile!
+<br>
+
+<span style="font-size: 24px;"> Welcome to My GitHub Profile!</span>
 
 Hi there! 👋 I'm excited to share my academic journey with you through my GitHub projects. Here, you'll find a collection of my university projects, showcasing my skills in various programming languages and technologies. Feel free to explore and dive into the code!
 
 ---
 
-### MASTER IN COMPUTER SCIENCE - DATA SCIENCE AND COMPLEX SYSTEMS
+<span style="font-size: 20px; font-weight: bold;"> 
+## MASTER IN COMPUTER SCIENCE - DATA SCIENCE AND COMPLEX SYSTEMS</span>
 
-#### Final Year of Master's Degree
+<span style="font-size: 20px;"> Final Year of Master's Degree</span>
 
-##### Master's Project: Developing Autonomous Agents and Creating New Rules for Board Games Using Reinforcement Learning
+### Master's Project: Developing Autonomous Agents and Creating New Rules for Board Games Using Reinforcement Learning
 
   - **Artificial Intelligence (AI) / Data Science (DS) Techniques**: Reinforcement Learning (Q-Learning, PPO, etc.)
 - **Programming Language**: Python
-- 🚧 **Libraries**
+- 🚧 **Libraries** : 
 - 🚧 **Tools**:
   - Jupyter Notebooks (🚧 for statistics, RL, etc.)
   - PostgreSQL for database management
