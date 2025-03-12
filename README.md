@@ -83,9 +83,11 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 - ### Master 1
 
-  - ### 🚧 TER
+  - ### 🚧 Travail d'étude et de recherche (TER) - Apprendre de ses erreurs
       - **Ressources** :
-        - [Article](TODO)
+        - [Énoncé](https://github.com/zoemarquis/apprendre-de-ses-erreurs/blob/76af52caee4bcacdb18e49098eb7ce4c4b5973b3/initial_requirements.pdf)
+        - [Article : Étude comparative des visualisations et des métriques pour l’évaluation des classeurs binaires](https://github.com/zoemarquis/apprendre-de-ses-erreurs/blob/76af52caee4bcacdb18e49098eb7ce4c4b5973b3/final_report.pdf)
+        
 
   - ### 🚧 Compilation
       - **Ressources** :
