@@ -15,7 +15,7 @@
 
 Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à travers mes projets GitHub. Vous y trouverez une collection de mes projets universitaires, mettant en avant mes compétences dans divers langages de programmation et technologies. N'hésitez pas à explorer et à plonger dans le code !
 
----
+<br>
 
 ### MASTER INFORMATIQUE - SCIENCES DES DONNÉES ET SYSTÈMES COMPLEXES
 
@@ -93,6 +93,9 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 <br>
 
+
+---
+
 ### LICENCE INFORMATIQUE
 
 <br>
@@ -102,9 +105,6 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 <br>
 <br>
 <br>
-
----
-
 
 
 
@@ -176,8 +176,8 @@ Hi there! 👋 I'm excited to share my academic journey with you through my GitH
 
 
 
-## Contact
-<a name="contact"></a>
+
+<a name="contact">## Contact</a>
 
 - 📧 [Email](zoe.marquis.zm@gmail.com)
 - 🌐 [LinkedIn](www.linkedin.com/in/marquis-zoe)
