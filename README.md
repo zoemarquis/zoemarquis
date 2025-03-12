@@ -100,38 +100,35 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
 ---
-
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <a name="english-version"> 🇬🇧 **English Version** </a>
 
