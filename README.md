@@ -21,23 +21,65 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 - ### Master 2 
 
-  > - ### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement
-  >   - **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : Apprentissage par Renforcement (Q-Learning, PPO, etc.)
-  >   - **Langage de Programmation** : Python
-  >   - 🚧 **Librairies** :
-  >   - 🚧 **Outils** :
-  >     - Jupyter Notebooks (🚧 pour les stats, le RL, ...)
-  >     - PostgreSQL pour la gestion de base de données
-  >     - Pandas pour la manipulation de données
-  >   - **Ressources** :
-  >     - [Repo Github](https://github.com/zoemarquis/autonomous-board-game-agents)
-  >     - [Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
-  >     - [Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
-  >     - [Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
+  - ### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via apprentissage par renforcement
+    - **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : Apprentissage par Renforcement (Q-Learning, PPO, etc.)
+    - **Langage de Programmation** : Python
+    - 🚧 **Librairies** :
+    - 🚧 **Outils** :
+      - Jupyter Notebooks (🚧 pour les stats, le RL, ...)
+      - PostgreSQL pour la gestion de base de données
+      - Pandas pour la manipulation de données
+    - **Ressources** :
+      - [Repo Github](https://github.com/zoemarquis/autonomous-board-game-agents)
+      - [Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
+      - [Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
+      - [Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
 
-  •••••••••••••••••••••
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-  ${\textsf{\color{lightgreen}Green}}$
+  - ### 🚧 Protection [des données massives distribuées ?]
+    - **Ressources** :
+      - [Repo Github](TODO)
+
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+  - ### 🚧 Sciences des Données Appliquées aux Nouveaux Défis : Eau / Naïades
+    - **Ressources** :
+      - [Repo Github](https://github.com/zoemarquis/projet_naiades)
+
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+  - ### 🚧 Sciences des Données Appliquées aux Nouveaux Défis : Batterie / XAI / industrie 4.0  
+    - **Ressources** :
+      - [Repo Github](TODO)
+
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+  - ### 🚧 Apprentissage collaboratif - stream reasoning
+    - **Ressources** :
+      - [Repo Github](TODO)
+      - [Rapport](TODO)
+
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+  - ### 🚧 Bioinformatique 
+
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+  - ### 🚧 Traitements des Données Large Échelle  - bonus
+
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+  - ### 🚧 Traitements des Données Large Échelle - comparaison SGBD
+
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+  - ### 🚧 Traitements des Données Large Échelle - échecs
+    - **Ressources** :
+      - [Repo Github](https://github.com/zoemarquis/TDLE_echecs.git)
+
+  •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
 
 
 - ### Master 1
