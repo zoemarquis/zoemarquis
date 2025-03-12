@@ -11,16 +11,16 @@
 
 <br>
 
-<span style="font-size: 24px;">Bienvenue sur mon profil GitHub !</span>
+<span style="font-size: 50px;">Bienvenue sur mon profil GitHub !</span>
 
 
 Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à travers mes projets GitHub. Vous y trouverez une collection de mes projets universitaires, mettant en avant mes compétences dans divers langages de programmation et technologies. N'hésitez pas à explorer et à plonger dans le code !
 
 ---
 
-<span style="font-size: 20px; font-weight: bold;"> MASTER EN INFORMATIQUE - SCIENCE DES DONNÉES ET SYSTÈMES COMPLEXES</span>
+<span style="font-size: 40px; font-weight: bold;"> MASTER EN INFORMATIQUE - SCIENCE DES DONNÉES ET SYSTÈMES COMPLEXES</span>
 
-<span style="font-size: 20px;"> Master 2 </span>
+<span style="font-size: 40px;"> Master 2 </span>
 
 ### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement
 
@@ -54,16 +54,16 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 <br>
 
-<span style="font-size: 24px;"> Welcome to My GitHub Profile!</span>
+<span style="font-size: 50px;">Welcome to My GitHub Profile!</span>
 
 Hi there! 👋 I'm excited to share my academic journey with you through my GitHub projects. Here, you'll find a collection of my university projects, showcasing my skills in various programming languages and technologies. Feel free to explore and dive into the code!
 
 ---
 
-<span style="font-size: 20px; font-weight: bold;"> 
-## MASTER IN COMPUTER SCIENCE - DATA SCIENCE AND COMPLEX SYSTEMS</span>
+<span style="font-size: 40px; font-weight: bold;"> 
+MASTER IN COMPUTER SCIENCE - DATA SCIENCE AND COMPLEX SYSTEMS</span>
 
-<span style="font-size: 20px;"> Final Year of Master's Degree</span>
+<span style="font-size: 40px;"> Final Year of Master's Degree</span>
 
 ### Master's Project: Developing Autonomous Agents and Creating New Rules for Board Games Using Reinforcement Learning
 
