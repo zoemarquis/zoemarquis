@@ -1,14 +1,12 @@
 [🇫🇷 Version Française](#french-version)  
-[🇬🇧 English version](#english-version)
+[🇬🇧 English version](#english-version)  
 [👷‍♀️ Contact](#contact)
 
-<br>
 <br>
 
 ---
 
-### 🇫🇷 **Version Française**
-<a name="french-version"></a>
+<a name="french-version">🇫🇷 **Version Française**</a>
 
 <br>
 
@@ -107,9 +105,35 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 ---
 
-### 🇬🇧 **English Version**
 
-<a name="english-version"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="english-version"> 🇬🇧 **English Version** </a>
 
 <br>
 
@@ -143,8 +167,16 @@ Hi there! 👋 I'm excited to share my academic journey with you through my GitH
 
 --- 
 
-## Contact
 
+
+
+
+
+
+
+
+
+## Contact
 <a name="contact"></a>
 
 - 📧 [Email](zoe.marquis.zm@gmail.com)
