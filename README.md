@@ -21,21 +21,19 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 - ### Master 2 
 
-### <span style="color:#FF5733;">Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement</span>
-
-  - ### ${\textsf{\color{red}Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement}}$
-    > - **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : Apprentissage par Renforcement (Q-Learning, PPO, etc.)
-    > - **Langage de Programmation** : Python
-    > - 🚧 **Librairies** :
-    > - 🚧 **Outils** :
-    >   - Jupyter Notebooks (🚧 pour les stats, le RL, ...)
-    >   - PostgreSQL pour la gestion de base de données
-    >   - Pandas pour la manipulation de données
-    > - **Ressources** :
-    >   - [Repo Github](https://github.com/zoemarquis/autonomous-board-game-agents)
-    >   - [Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
-    >   - [Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
-    >   - [Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
+  > - ### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement
+  >   - **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : Apprentissage par Renforcement (Q-Learning, PPO, etc.)
+  >   - **Langage de Programmation** : Python
+  >   - 🚧 **Librairies** :
+  >   - 🚧 **Outils** :
+  >     - Jupyter Notebooks (🚧 pour les stats, le RL, ...)
+  >     - PostgreSQL pour la gestion de base de données
+  >     - Pandas pour la manipulation de données
+  >   - **Ressources** :
+  >     - [Repo Github](https://github.com/zoemarquis/autonomous-board-game-agents)
+  >     - [Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
+  >     - [Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
+  >     - [Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
 
   •••••••••••••••••••••
 
