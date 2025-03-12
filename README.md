@@ -6,42 +6,40 @@
 
 ---
 
-# 🇫🇷 **Version Française**
+### 🇫🇷 **Version Française**
 
 <br>
 
-### Bienvenue sur mon profil GitHub !
+## Bienvenue sur mon profil GitHub !
 
 
 Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à travers mes projets GitHub. Vous y trouverez une collection de mes projets universitaires, mettant en avant mes compétences dans divers langages de programmation et technologies. N'hésitez pas à explorer et à plonger dans le code !
 
 ---
 
+
 ### MASTER EN INFORMATIQUE - SCIENCE DES DONNÉES ET SYSTÈMES COMPLEXES
 
-### Master 2 
+<br>
 
-### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement
+- ### Master 2 
 
-- **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : Apprentissage par Renforcement (Q-Learning, PPO, etc.)
-- **Langage de Programmation** : Python
-- 🚧 **Librairies** :
-- 🚧 **Outils** :
-  - Jupyter Notebooks (🚧 pour les stats, le RL, ...)
-  - PostgreSQL pour la gestion de base de données
-  - Pandas pour la manipulation de données
-- **Ressources** :
-  - [Repo Github](https://github.com/zoemarquis/autonomous-board-game-agents)
-  - [Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
-  - [Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
-  - [Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
-
-
-
+  > ### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via l’apprentissage par renforcement
+  > - **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : Apprentissage par Renforcement (Q-Learning, PPO, etc.)
+  > - **Langage de Programmation** : Python
+  > - 🚧 **Librairies** :
+  > - 🚧 **Outils** :
+  >   - Jupyter Notebooks (🚧 pour les stats, le RL, ...)
+  >   - PostgreSQL pour la gestion de base de données
+  >   - Pandas pour la manipulation de données
+  > - **Ressources** :
+  >   - [Repo Github](https://github.com/zoemarquis/autonomous-board-game-agents)
+  >   - [Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
+  >   - [Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
+  >   - [Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
 
 
 ---
-
 
 <br>
 <br>
@@ -49,11 +47,11 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 
 ---
 
-# 🇬🇧 **English Version**
+### 🇬🇧 **English Version**
 
 <br>
 
-### Welcome to My GitHub Profile!
+## Welcome to My GitHub Profile!
 
 Hi there! 👋 I'm excited to share my academic journey with you through my GitHub projects. Here, you'll find a collection of my university projects, showcasing my skills in various programming languages and technologies. Feel free to explore and dive into the code!
 
@@ -65,7 +63,7 @@ Hi there! 👋 I'm excited to share my academic journey with you through my GitH
 
 ### Master's Project: Developing Autonomous Agents and Creating New Rules for Board Games Using Reinforcement Learning
 
-  - **Artificial Intelligence (AI) / Data Science (DS) Techniques**: Reinforcement Learning (Q-Learning, PPO, etc.)
+- **Artificial Intelligence (AI) / Data Science (DS) Techniques**: Reinforcement Learning (Q-Learning, PPO, etc.)
 - **Programming Language**: Python
 - 🚧 **Libraries** : 
 - 🚧 **Tools**:
