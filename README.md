@@ -1,5 +1,6 @@
 [🇫🇷 Version Française](#french-version)  
 [🇬🇧 English version](#english-version)
+[👷‍♀️ Contact](#contact)
 
 <br>
 <br>
@@ -7,6 +8,7 @@
 ---
 
 ### 🇫🇷 **Version Française**
+<a name="french-version"></a>
 
 <br>
 
@@ -78,13 +80,24 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
     - **Ressources** :
       - [Repo Github](https://github.com/zoemarquis/TDLE_echecs.git)
 
-  ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-
+<br>
 
 - ### Master 1
 
+  - ### 🚧 TER
+      - **Ressources** :
+        - [Article](TODO)
+
+  - ### 🚧 Compilation
+      - **Ressources** :
+        - [Repo](TODO)
+
+<br>
+
 ### LICENCE INFORMATIQUE
+
+<br>
 
 ---
 
@@ -95,6 +108,8 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
 ---
 
 ### 🇬🇧 **English Version**
+
+<a name="english-version"></a>
 
 <br>
 
@@ -123,4 +138,15 @@ Hi there! 👋 I'm excited to share my academic journey with you through my GitH
   - [Final Report (in French)](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
   - [Defense Presentation Slides (in French)](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
 
+
+<br>
+
+--- 
+
+## Contact
+
+<a name="contact"></a>
+
+- 📧 [Email](zoe.marquis.zm@gmail.com)
+- 🌐 [LinkedIn](www.linkedin.com/in/marquis-zoe)
 
