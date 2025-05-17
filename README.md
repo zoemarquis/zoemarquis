@@ -1,4 +1,64 @@
+### Driven by Data, Inspired by AI, Curious by Nature
+
+🎓 Master’s in Computer Science (Data Science & Complex Systems) @ [University of Strasbourg](https://en.unistra.fr/)  
+-> Data specialist  
+> Interest in all parts of the data stack  
+
+💼 Looking forward to my end-of-studies internship in Data / AI (Feb–Aug 2025)  
+📍 Based in France (born and raised in Lens ❤️💛)  
+
+Currently intern at Welcome to the Jungle,  
+also interned at Decathlon Digital and Solfy  
+
+<!--  
+🌐 [Portfolio](#) (*coming soon*)  
+📫 Reach me at: [zoe.marquis.zm@gmail.com](mailto:zoe.marquis.zm@gmail.com)  
+-->
+
+<!-- TODO 
+<div align="center">
+  <b>Driven by curiosity, guided by logic, inspired by creativity</b>
+
+  https://github.com/DenverCoder1/readme-typing-svg
+
+  ![Coding Running Music](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&width=460&lines=40%25+%7B+coding+%7D;30%25+%7B+thinking+%7D;20%25+%7B+playing+music+%7D;10%25+%7B+running+%7D;repeat+%7B+while+(alive)+%7D)
+</div> -->
+
+<!-- TODO : add small resume for each public repo -->
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3E4E6D?style=flat&logo=plotly&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+
+---
+
+### 📊 GitHub Stats
+
+| <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zoemarquis&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zoé's GitHub stats" /></a> | <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemarquis&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+![GitHub Streak](https://streak-stats.demolab.com?user=zoemarquis&theme=transparent&hide_border=true)
+
+
+<br>
+
+
 [🇫🇷 Version Française](#french-version)  
+
+- [Parcours professionnel](#parcours-professionnel)
+- [Compétences techniques](#compétences-techniques)
+- [Projets universitaires](#projets-universitaires)
+
 [🇬🇧 English version](#english-version)  
 [👷‍♀️ Contact](#contact)
 
@@ -14,16 +74,14 @@
 <a name="french-version"></a>
 
 
-<a name="french-version"></a>
-
 # Profil
 
-Je m'appelle **Zoé Marquis**, actuellement en Master 2 Informatique – Sciences des Données et Systèmes Complexes à l’Université de Strasbourg.  
-Je me spécialise en **data science**, avec des expériences concrètes en **machine learning**, **reinforcement learning**, **séries temporelles** et **détection d’anomalies** dans des contextes applicatifs variés.
+Je m'appelle **Zoé Marquis**, étudiante en Master 2 Informatique – Sciences des Données et Systèmes Complexes à l’Université de Strasbourg.  
+Je me spécialise en **data science**, avec des expériences en **machine learning**, **reinforcement learning**, **analyse de séries temporelles** et **détection d’anomalies**.
 
-Au fil de mes stages chez **Decathlon Digital**, **Solfy** et **Welcome to the Jungle**, j’ai acquis une maîtrise complète du cycle de vie des données — de l’ingestion à l’analyse avancée — et un fort attrait pour les problématiques mêlant raisonnement logique, IA et exploration de systèmes complexes.
+Mes stages chez **Decathlon Digital**, **Solfy** et **Welcome to the Jungle** m'ont permis de maîtriser le cycle complet des données — de l’ingestion à l’analyse avancée — en mêlant raisonnement logique, IA et systèmes complexes.
 
-Ce profil GitHub regroupe mes projets universitaires et personnels, où je mobilise Python, SQL, des outils de visualisation, des techniques de machine learning, et des frameworks modernes comme **dbt**, **Streamlit**, **Snowflake** ou **FastAPI**.
+Ce profil GitHub rassemble mes projets universitaires et personnels, où je travaille avec Python, SQL, visualisation, machine learning, ainsi que des outils modernes comme **dbt**, **Streamlit**, **Snowflake** ou **FastAPI**.
 
 ---
 
