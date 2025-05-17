@@ -1,7 +1,7 @@
 # Zoé Marquis  
 
 
-> ⚠️ **Travail en cours**  
+> ⚠️ 
 > Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modification.
 
 
@@ -52,10 +52,10 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 
 - [👷‍♀️ Contact](#contact)
 - [🇫🇷 Version Française](#french-version)  
-  - À PROPOS 
-  - Parcours professionnel
-  - FORMATION
-  - COMPÉTENCES TECHNIQUES 
+  - [À propos de moi](#a-propos-de-moi)   
+  - [Parcours professionnel](#parcours-professionnel)  
+  - [Formation](#formation)  
+  - [COMPÉTENCES TECHNIQUES](#competences-techniques)  
   - [Projets universitaires](#projets-universitaires)
     - PROJET MASTER
     - PROJET PROTECTION
@@ -67,6 +67,7 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 
 todo FAIRE L'ÉQUIVALENT 
 
+<br>
 --- 
 
 <a name="contact"></a>
@@ -77,21 +78,19 @@ todo FAIRE L'ÉQUIVALENT
 - LinkedIn : [zoemarquis](https://linkedin.com/in/zoemarquis)  
 
 <br>
-
 ---
 
 <a name="french-version"></a>
 
 # Version Française
 
--> todo ajouter balise a propos 
-## À propos
+<a name="a-propos-de-moi"></a>
+## À propos de moi 
 
 Attirée par les rôles à responsabilités dans la data, j’ai développé une expertise full stack grâce à plusieurs stages couvrant l’ensemble du cycle de vie des données. Polyvalente et curieuse, je serai diplômée d’un master en informatique en août 2025 et disponible dès septembre pour une première expérience professionnelle ou une thèse CIFRE. Je suis prête à m’investir pleinement dans des projets innovants.
 
----
 
-<a name="experiences"></a>
+<a name="parcours-professionnel"></a>
 ## Parcours professionnel
 
 ### Analytics Engineer – [**Welcome to the Jungle**](https://www.welcometothejungle.com/fr) (Paris)  
@@ -113,8 +112,6 @@ _Printemps & été 2023 (Stage 5 mois)_
 - Accompagnement à la gestion du changement après mise en place d’une nouvelle stack technique  
 - Collecte, transformation et visualisation des données pour améliorer la prise de décision  
 
----
-
 <a name="formation"></a>
 ## Formation
 
@@ -126,13 +123,10 @@ Université de Strasbourg, 2023-2025 (en cours, fin prévue août 2025)
 Université d’Artois, 2020-2023  
 - Mention Très Bien, major de promotion  
 
----
-
 <a name="competences-techniques"></a>
 # Compétences techniques
 
-
-- **Langages** : Python, SQL, Java, C/C++, Bash  
+- **Langages** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) , Java, C/C++, Bash  
 - **Data Science & Machine Learning** : régression, clustering, séries temporelles, XAI – ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), PyTorch, TensorFlow, Numpy  
 - **Visualisation** : Tableau, ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), Plotly, Matplotlib, Seaborn, Metabase, Omni  
 - **Backend & API** : ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi), SQLAlchemy, Pydantic, PostgreSQL  
@@ -335,193 +329,11 @@ repo github :
 
 ---
 
-
 <a name="english-version"></a>
 
-# 🇬🇧 English Version
-# Profile
+todo when french version over 
 
-My name is **Zoé Marquis**, currently a Master 2 student in Computer Science – Data Science and Complex Systems at the University of Strasbourg.  
-I specialize in **data science**, with hands-on experience in **machine learning**, **reinforcement learning**, **time series analysis**, and **anomaly detection** across various application domains.
-
-Through internships at **Decathlon Digital**, **Solfy**, and **Welcome to the Jungle**, I gained a comprehensive understanding of the data lifecycle — from ingestion to advanced analysis — with a strong interest in logical reasoning, AI, and exploring complex systems.
-
-This GitHub profile showcases my academic and personal projects, where I use Python, SQL, visualization tools, machine learning techniques, and modern frameworks like **dbt**, **Streamlit**, **Snowflake**, and **FastAPI**.
-
----
-
-# Professional Journey
-
-### 🔹 Welcome to the Jungle – *Analytics Engineer* (2025)  
-- Analytical modeling with **dbt**  
-- Dashboard creation and implementation of DevOps best practices  
-- Documentation automation and business support through AI  
-
-### 🔹 Solfy – *Data Scientist / ML Engineer* (2024)  
-- Backend development (**FastAPI**, **SQLAlchemy**)  
-- ML modeling, data quality monitoring  
-- Rapid delivery of B2B/B2C features  
-
-### 🔹 Decathlon Digital – *Data Analyst* (2023)  
-- End-to-end analysis: ingestion, transformation, visualization  
-- Implementation of decision support tools to improve internal processes  
-
----
-
-# Technical Skills
-
-- **Languages**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), SQL, Java, C/C++, Bash  
-- **Data Science & ML**: ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), XAI, time series, PyTorch, TensorFlow  
-- **Visualization**: Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Metabase, Omni  
-- **Backend**: FastAPI, SQLAlchemy, Pydantic, PostgreSQL  
-- **Big Data / ETL**: dbt, Snowflake, Databricks, Apache Spark  
-- **DevOps / Quality**: CI/CD, automated testing, monitoring, SonarQube  
-- **Tools**: Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab
-
----
-
-## 🎓 Academic Projects
-
-### 🎲 Master Project – *Autonomous Agents for Board Games*
-
-- **Goal**: Design AI agents able to play various board games with dynamic rules using reinforcement learning.
-- **Techniques**: Q-Learning, PPO, custom environments based on **OpenAI Gym**
-- **Stack**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), Jupyter, PostgreSQL (🚧 *TODO: complete list*)
-- **Resources**:
-  - [🐙 GitHub repo](https://github.com/zoemarquis/autonomous-board-game-agents)
-  - [📄 Requirements](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)
-  - [📑 Final report](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
-  - [🖥️ Slides](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
-
----
-
-### 🔐 Project – *Anomaly Detection in Distributed Data Systems*
-
-- **Goal**: Detect anomalies in cyber-physical system data with an end-to-end data science pipeline, including a web UI via **Streamlit**
-- **Scope**:
-  - Data cleaning, preprocessing, modeling, interactive visualization
-- **Tools**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Streamlit, Jupyter (🚧 *TODO: add libraries*)
-- **Resources**:
-  - [🐙 GitHub repo](https://github.com/zoemarquis/anomaly-detection-project)
-  - [📄 Assignment](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)
-  - [📘 Report](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/Projet_protection_Rapport.pdf)
-
----
-
-### 🌊 EcoStream Analytics – *Linking Physico-Chemical and Biological Water Quality*
-
-- **Course**: Applied Data Science for Emerging Challenges  
-- **Techniques**: Clustering, regression, spatio-temporal analysis  
-- **Stack**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Jupyter, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), `matplotlib`, `seaborn`  
-- **Goal**: Understand how physico-chemical parameters relate to the I2M2 biological index using real environmental data
-
-#### 📁 Resources:
-- [🐙 GitHub repo](https://github.com/zoemarquis/ecostream-analytics)
-  - [📘 Notebook](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades.ipynb)
-  - [📄 Final Report PDF](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades-MARQUIS-KRUZIC.pdf)
-  - 📌 *TODO*: Add assignment file, organize repository
-
-#### 🌍 Context & Methods:
-
-- Analysis of **spatial and temporal data** from environmental monitoring campaigns
-- Station grouping by **hydroecoregions**
-- Addressing **temporal lags** between chemical measurements and biological responses
-- **Clustering** to group ecologically similar stations
-- **Regression modeling** to predict biological quality from chemical indicators
-
----
-
-### 🚧 *Collaborative Learning* – *Stream Reasoning Project*
-
-## 🔧 Project: RDF Stream Reasoning for Failure Detection
-
-### 🎯 Objectives
-- Model an ontology for a production line.
-- Represent failure conditions and system constraints via SPARQL rules.
-- Simulate real-time sensor data as RDF streams.
-- Use C-SPARQL to detect failure situations and inject them into the ontology.
-- Compare knowledge-based and data-driven reasoning approaches.
-
----
-
-### 🧰 Tools
-- **Java**: main programming language.
-- **C-SPARQL Engine**: stream reasoning engine.
-- **Protégé**: OWL ontology modeling (optional).
-- **Owlready2**: optional Python library.
-- **Maven** or **Gradle**: dependency management.
-- **Apache Jena** / **Commons RDF**: RDF graph processing.
-- **Git**: version control.
-
----
-
-### 📚 Resources
-- [Project base on Moodle](#)
-- [C-SPARQL documentation](http://streamreasoning.org/resources/c-sparql/)
-- [SSN Ontology (Semantic Sensor Network)](https://www.w3.org/TR/vocab-ssn/)
-- [🐙 GitHub repo](TODO)
-- [📘 Final Report](TODO)
-
----
-
-### 🧠 Methodology
-
-#### 1. Ontology Design
-- **Classes**:
-  - `Machine`, `Sensor`, `Property`, `Measurement`, `FailureSituation`, `Constraint`
-- **Relations**:
-  - `hasSensor`, `measures`, `hasMeasurement`, `belongsTo`, `hasConstraint`
-- **Individuals**:
-  - Machines `M1–M4`, Sensors `S1–S14`, Constraints `c1–c23`
-
-#### 2. Codebase Understanding
-- Explore provided code
-- Identify RDF stream structure and frequency
-- Integrate C-SPARQL rules into the pipeline
-
-#### 3. 🚧 *TODO: describe how failure detection is validated and visualized*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## <a name="contact">Contact</a>
-
-- 📧 [Email](zoe.marquis.zm@gmail.com)
-- 🌐 [LinkedIn](www.linkedin.com/in/marquis-zoe)
+--- 
 
 
 <!-- 
