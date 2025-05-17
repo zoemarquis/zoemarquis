@@ -1,6 +1,11 @@
 # Zoé Marquis  
 
 
+> ⚠️ **Travail en cours**  
+> Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modification.
+
+
+
 <!--  
 🌐 [Portfolio](#) (*coming soon*)  
 📫 Reach me at: [zoe.marquis.zm@gmail.com](mailto:zoe.marquis.zm@gmail.com)  
@@ -45,8 +50,8 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 
 # Navigation
 
-[👷‍♀️ Contact](#contact)
-[🇫🇷 Version Française](#french-version)  
+- [👷‍♀️ Contact](#contact)
+- [🇫🇷 Version Française](#french-version)  
   - À PROPOS 
   - Parcours professionnel
   - FORMATION
@@ -58,11 +63,9 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
     - PROJET STREAM REASONING
     - PROJET NAIADES
     - À DÉFINIR 
+- [🇬🇧 English version](#english-version)  
 
-
-[🇬🇧 English version](#english-version)  
-
-  FAIRE L'ÉQUIVALENT 
+todo FAIRE L'ÉQUIVALENT 
 
 --- 
 
@@ -73,13 +76,7 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 - Email : zoe.marquis.zm@gmail.com  
 - LinkedIn : [zoemarquis](https://linkedin.com/in/zoemarquis)  
 
-
----
-
-
-> ⚠️ **Travail en cours**  
-> Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modification.
-
+<br>
 
 ---
 
@@ -87,7 +84,7 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 
 # Version Française
 
-# TODO BALISE A PROPOS 
+-> todo ajouter balise a propos 
 ## À propos
 
 Attirée par les rôles à responsabilités dans la data, j’ai développé une expertise full stack grâce à plusieurs stages couvrant l’ensemble du cycle de vie des données. Polyvalente et curieuse, je serai diplômée d’un master en informatique en août 2025 et disponible dès septembre pour une première expérience professionnelle ou une thèse CIFRE. Je suis prête à m’investir pleinement dans des projets innovants.
@@ -97,20 +94,20 @@ Attirée par les rôles à responsabilités dans la data, j’ai développé une
 <a name="experiences"></a>
 ## Parcours professionnel
 
-### Analytics Engineer – **Welcome to the Jungle** (Paris)  
+### Analytics Engineer – [**Welcome to the Jungle**](https://www.welcometothejungle.com/fr) (Paris)  
 TODO AJOUTER LIENS
 _Février – Juillet 2025 (Stage 6 mois)_  
 - Modélisation analytique avec **dbt**  
 - Création de dashboards et mise en place de bonnes pratiques DevOps (CI/CD, tests automatisés)  
 - Automatisation de documentation, développement d’assistants IA pour les équipes métiers  
 
-### Data Scientist / ML Engineer – **Solfy** (Lille)  
+### Data Scientist / ML Engineer – [**Solfy**](https://solfy.io) (Lille)  
 _Été 2024 (Stage 3 mois)_  
 - Développement backend d’API avec **FastAPI**, **Pydantic**, **SQLAlchemy** pour fonctionnalités B2B/B2C  
 - Analyse et suivi qualité des données pour guider les évolutions produit  
 - Livraison rapide de fonctionnalités critiques dans un contexte startup  
 
-### Data Analyst – **Decathlon Digital** (Croix)  
+### Data Analyst – [**Decathlon Digital**](https://digital.decathlon.net) (Croix)  
 _Printemps & été 2023 (Stage 5 mois)_  
 - Développement d’outils internes pour améliorer l’efficacité opérationnelle  
 - Accompagnement à la gestion du changement après mise en place d’une nouvelle stack technique  
