@@ -25,7 +25,7 @@ TODO : add lien vers pages web
 <!-- TODO : add small resume for each public repo -->
 
 ---
-
+<!-- 
 ### 🛠️ Tech Stack
 
 TODO : tout sur la même ligne 
@@ -40,7 +40,7 @@ TODO : tout sur la même ligne
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
-TODO : ajouter les badges dans chacune des section de mes projets 
+TODO : ajouter les badges dans chacune des section de mes projets  -->
 
 ---
 
@@ -52,9 +52,11 @@ TODO : ajouter les badges dans chacune des section de mes projets
 ![GitHub Streak](https://streak-stats.demolab.com?user=zoemarquis&theme=transparent&hide_border=true)
 
 
+---
+
+
 <br>
 
----
 
 
 [🇫🇷 Version Française](#french-version)  
@@ -63,13 +65,24 @@ TODO : ajouter les badges dans chacune des section de mes projets
 - [Compétences techniques](#compétences-techniques)
 - [Projets universitaires](#projets-universitaires)
 
+TODO ajouter les liens correctement vers les différentes sections
+
+pour chaue porjet ajouter un lien 
+
+
+
 [🇬🇧 English version](#english-version)  
 [👷‍♀️ Contact](#contact)
+
+---
 
 <br>
 
 > ⚠️ **Work in Progress**  
 > Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modification.
+
+TODO : en français 
+
 
 <br>
 
