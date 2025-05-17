@@ -16,8 +16,6 @@
 </div> -->
 
 <!-- TODO : add small resume for each public repo -->
-
----
 <!-- 
 ### 🛠️ Tech Stack
 
@@ -37,8 +35,6 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 
 ---
 
-### 📊 GitHub Stats
-
 | <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zoemarquis&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zoé's GitHub stats" /></a> | <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemarquis&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -47,71 +43,59 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 
 ---
 
+# Navigation
 
 [👷‍♀️ Contact](#contact)
-
 [🇫🇷 Version Française](#french-version)  
-
-- [Parcours professionnel](#parcours-professionnel)
-- [Compétences techniques](#compétences-techniques)
-- [Projets universitaires](#projets-universitaires)
-
-TODO ajouter les liens correctement vers les différentes sections
-
-pour chaue porjet ajouter un lien 
-
+  - À PROPOS 
+  - Parcours professionnel
+  - FORMATION
+  - COMPÉTENCES TECHNIQUES 
+  - [Projets universitaires](#projets-universitaires)
+    - PROJET MASTER
+    - PROJET PROTECTION
+    - PROJET XAI
+    - PROJET STREAM REASONING
+    - PROJET NAIADES
+    - À DÉFINIR 
 
 
 [🇬🇧 English version](#english-version)  
 
+  FAIRE L'ÉQUIVALENT 
 
 --- 
 
+<a name="contact"></a>
 
+# 👷‍♀️ Contact
 
-ICI SECTION CONTACT
+- Email : zoe.marquis.zm@gmail.com  
+- LinkedIn : [zoemarquis](https://linkedin.com/in/zoemarquis)  
+
 
 ---
 
 
-> ⚠️ **Work in Progress**  
+> ⚠️ **Travail en cours**  
 > Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modification.
 
-TODO : en français 
 
 ---
-
-
-
-
---- 
-
 
 <a name="french-version"></a>
 
+# Version Française
 
-
-# version fr 
-
+# TODO BALISE A PROPOS 
 ## À propos
 
 Attirée par les rôles à responsabilités dans la data, j’ai développé une expertise full stack grâce à plusieurs stages couvrant l’ensemble du cycle de vie des données. Polyvalente et curieuse, je serai diplômée d’un master en informatique en août 2025 et disponible dès septembre pour une première expérience professionnelle ou une thèse CIFRE. Je suis prête à m’investir pleinement dans des projets innovants.
 
-
 ---
 
-# Profil
-
-Je m'appelle **Zoé Marquis**, étudiante en Master 2 Informatique – Sciences des Données et Systèmes Complexes à l’Université de Strasbourg.  
-Je me spécialise en **data science**, avec des expériences en **machine learning**, **reinforcement learning**, **analyse de séries temporelles** et **détection d’anomalies**.
-
-Mes stages chez **Decathlon Digital**, **Solfy** et **Welcome to the Jungle** m'ont permis de maîtriser le cycle complet des données — de l’ingestion à l’analyse avancée — en mêlant raisonnement logique, IA et systèmes complexes.
-
-Ce profil GitHub rassemble mes projets universitaires et personnels, où je travaille avec Python, SQL, visualisation, machine learning, ainsi que des outils modernes comme **dbt**, **Streamlit**, **Snowflake** ou **FastAPI**.
-
----
-
-## Expériences
+<a name="experiences"></a>
+## Parcours professionnel
 
 ### Analytics Engineer – **Welcome to the Jungle** (Paris)  
 TODO AJOUTER LIENS
@@ -134,7 +118,7 @@ _Printemps & été 2023 (Stage 5 mois)_
 
 ---
 
-
+<a name="formation"></a>
 ## Formation
 
 **Master Informatique – Sciences des données & systèmes complexes**  
@@ -147,32 +131,22 @@ Université d’Artois, 2020-2023
 
 ---
 
+<a name="competences-techniques"></a>
 # Compétences techniques
 
+
 - **Langages** : Python, SQL, Java, C/C++, Bash  
-- **Data Science & ML** : ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), XAI, séries temporelles, PyTorch, TensorFlow  
-- **Visualisation** : Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Metabase, Omni  
-- **Backend** : FastAPI, SQLAlchemy, Pydantic, PostgreSQL  
-- **Big Data / ETL** : dbt, Snowflake, Databricks, Apache Spark  
-- **DevOps / Qualité** : CI/CD, tests automatisés, monitoring, SonarQube  
-- **Outils** : Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab
+- **Data Science & Machine Learning** : régression, clustering, séries temporelles, XAI – ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), PyTorch, TensorFlow, Numpy  
+- **Visualisation** : Tableau, ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), Plotly, Matplotlib, Seaborn, Metabase, Omni  
+- **Backend & API** : ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi), SQLAlchemy, Pydantic, PostgreSQL  
+- **Big Data / ETL** : ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white), Snowflake, Databricks, Apache Spark  
+- **DevOps & Qualité** : CI/CD, tests automatisés, monitoring, SonarQube  
+- **Outils** : Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab  
 
-TODO MERGE LES 2 PARTIES
-
-- **Data Science & Machine Learning** : régression, clustering, séries temporelles, XAI – ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), Numpy  
-- **ETL & Ingénierie des données** : dbt, Snowflake, Databricks  
-- **Backend & API** : FastAPI, SQLAlchemy, Pydantic  
-- **Visualisation** : Tableau, Metabase, Matplotlib, Seaborn, Plotly, Streamlit  
-- **DevOps & Qualité** : CI/CD, tests automatisés, monitoring, alerting  
-- **Langages** : Python, SQL  
 
 ---
 
-<br>
-
----
-
-
+<a name="projets-universitaires"></a>
 ## 🎓 Projets universitaires
 
 ### 🎲 Projet de Master – *Agents autonomes pour jeux de plateau*
@@ -195,7 +169,7 @@ TODO Techniques d'IA / DS / ML
 - **Objectif** : Détecter des anomalies dans des données cyber-physiques à travers une chaîne complète d'analyse, avec interface Web via **Streamlit**
 - **Contenu** :
   - Nettoyage, prétraitement, modélisation, visualisation interactive
-- **Langages / Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Streamlit, Jupyter, (🚧 librairies à compléter)
+- **Langages / Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), Jupyter, (🚧 librairies à compléter)
 - **Ressources** :
   - [🐙 Repo GitHub](https://github.com/zoemarquis/anomaly-detection-project)
   - [📄 Énoncé](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)
@@ -399,7 +373,7 @@ This GitHub profile showcases my academic and personal projects, where I use Pyt
 
 # Technical Skills
 
-- **Languages**: Python, SQL, Java, C/C++, Bash  
+- **Languages**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), SQL, Java, C/C++, Bash  
 - **Data Science & ML**: ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), XAI, time series, PyTorch, TensorFlow  
 - **Visualization**: Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Metabase, Omni  
 - **Backend**: FastAPI, SQLAlchemy, Pydantic, PostgreSQL  
@@ -415,7 +389,7 @@ This GitHub profile showcases my academic and personal projects, where I use Pyt
 
 - **Goal**: Design AI agents able to play various board games with dynamic rules using reinforcement learning.
 - **Techniques**: Q-Learning, PPO, custom environments based on **OpenAI Gym**
-- **Stack**: Python, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), Jupyter, PostgreSQL (🚧 *TODO: complete list*)
+- **Stack**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), Jupyter, PostgreSQL (🚧 *TODO: complete list*)
 - **Resources**:
   - [🐙 GitHub repo](https://github.com/zoemarquis/autonomous-board-game-agents)
   - [📄 Requirements](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)
@@ -429,7 +403,7 @@ This GitHub profile showcases my academic and personal projects, where I use Pyt
 - **Goal**: Detect anomalies in cyber-physical system data with an end-to-end data science pipeline, including a web UI via **Streamlit**
 - **Scope**:
   - Data cleaning, preprocessing, modeling, interactive visualization
-- **Tools**: Python, Streamlit, Jupyter (🚧 *TODO: add libraries*)
+- **Tools**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Streamlit, Jupyter (🚧 *TODO: add libraries*)
 - **Resources**:
   - [🐙 GitHub repo](https://github.com/zoemarquis/anomaly-detection-project)
   - [📄 Assignment](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)
@@ -441,7 +415,7 @@ This GitHub profile showcases my academic and personal projects, where I use Pyt
 
 - **Course**: Applied Data Science for Emerging Challenges  
 - **Techniques**: Clustering, regression, spatio-temporal analysis  
-- **Stack**: Python, Jupyter, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), `matplotlib`, `seaborn`  
+- **Stack**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Jupyter, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), `matplotlib`, `seaborn`  
 - **Goal**: Understand how physico-chemical parameters relate to the I2M2 biological index using real environmental data
 
 #### 📁 Resources:
@@ -561,6 +535,8 @@ https://github.com/Ileriayo/markdown-badges
 #### licence
 
   ###### Languages  
+
+  ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
