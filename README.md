@@ -1,12 +1,5 @@
-### Driven by Data, Inspired by AI, Curious by Nature
+# Zoé Marquis  
 
-🎓 Master’s in Computer Science (Data Science & Complex Systems) @ [University of Strasbourg](https://en.unistra.fr/)  
--> Data specialist  
-> Interest in all parts of the data stack  
-
-Currently intern at Welcome to the Jungle,  
-also interned at Decathlon Digital and Solfy  
-TODO : add lien vers pages web 
 
 <!--  
 🌐 [Portfolio](#) (*coming soon*)  
@@ -55,9 +48,7 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 ---
 
 
-<br>
-
-
+[👷‍♀️ Contact](#contact)
 
 [🇫🇷 Version Française](#french-version)  
 
@@ -72,26 +63,42 @@ pour chaue porjet ajouter un lien
 
 
 [🇬🇧 English version](#english-version)  
-[👷‍♀️ Contact](#contact)
+
+
+--- 
+
+
+
+ICI SECTION CONTACT
 
 ---
 
-<br>
 
 > ⚠️ **Work in Progress**  
 > Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modification.
 
 TODO : en français 
 
-
-<br>
-
 ---
+
+
+
+
+--- 
+
 
 <a name="french-version"></a>
 
+
+
 # version fr 
 
+## À propos
+
+Attirée par les rôles à responsabilités dans la data, j’ai développé une expertise full stack grâce à plusieurs stages couvrant l’ensemble du cycle de vie des données. Polyvalente et curieuse, je serai diplômée d’un master en informatique en août 2025 et disponible dès septembre pour une première expérience professionnelle ou une thèse CIFRE. Je suis prête à m’investir pleinement dans des projets innovants.
+
+
+---
 
 # Profil
 
@@ -104,33 +111,62 @@ Ce profil GitHub rassemble mes projets universitaires et personnels, où je trav
 
 ---
 
-# Parcours professionnel
+## Expériences
 
-### 🔹 Welcome to the Jungle – *Analytics Engineer* (2025)  
+### Analytics Engineer – **Welcome to the Jungle** (Paris)  
+TODO AJOUTER LIENS
+_Février – Juillet 2025 (Stage 6 mois)_  
 - Modélisation analytique avec **dbt**  
-- Création de dashboards et mise en place de bonnes pratiques DevOps  
-- Automatisation de documentation, assistance métier via IA  
+- Création de dashboards et mise en place de bonnes pratiques DevOps (CI/CD, tests automatisés)  
+- Automatisation de documentation, développement d’assistants IA pour les équipes métiers  
 
-### 🔹 Solfy – *Data Scientist / ML Engineer* (2024)  
-- Développement backend (**FastAPI**, **SQLAlchemy**)  
-- Modélisation ML, suivi de qualité des données  
-- Livraison rapide de fonctionnalités B2B/B2C  
+### Data Scientist / ML Engineer – **Solfy** (Lille)  
+_Été 2024 (Stage 3 mois)_  
+- Développement backend d’API avec **FastAPI**, **Pydantic**, **SQLAlchemy** pour fonctionnalités B2B/B2C  
+- Analyse et suivi qualité des données pour guider les évolutions produit  
+- Livraison rapide de fonctionnalités critiques dans un contexte startup  
 
-### 🔹 Decathlon Digital – *Data Analyst* (2023)  
-- Analyse de bout en bout : ingestion, transformation, visualisation  
-- Mise en place d’outils d’aide à la décision pour améliorer les processus internes  
+### Data Analyst – **Decathlon Digital** (Croix)  
+_Printemps & été 2023 (Stage 5 mois)_  
+- Développement d’outils internes pour améliorer l’efficacité opérationnelle  
+- Accompagnement à la gestion du changement après mise en place d’une nouvelle stack technique  
+- Collecte, transformation et visualisation des données pour améliorer la prise de décision  
+
+---
+
+
+## Formation
+
+**Master Informatique – Sciences des données & systèmes complexes**  
+Université de Strasbourg, 2023-2025 (en cours, fin prévue août 2025)  
+- Master 1 : mention Très Bien, major de promotion  
+
+**Licence Informatique**  
+Université d’Artois, 2020-2023  
+- Mention Très Bien, major de promotion  
 
 ---
 
 # Compétences techniques
 
 - **Langages** : Python, SQL, Java, C/C++, Bash  
-- **Data Science & ML** : pandas, scikit-learn, XAI, séries temporelles, PyTorch, TensorFlow  
+- **Data Science & ML** : ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), XAI, séries temporelles, PyTorch, TensorFlow  
 - **Visualisation** : Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Metabase, Omni  
 - **Backend** : FastAPI, SQLAlchemy, Pydantic, PostgreSQL  
 - **Big Data / ETL** : dbt, Snowflake, Databricks, Apache Spark  
 - **DevOps / Qualité** : CI/CD, tests automatisés, monitoring, SonarQube  
 - **Outils** : Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab
+
+TODO MERGE LES 2 PARTIES
+
+- **Data Science & Machine Learning** : régression, clustering, séries temporelles, XAI – ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), Numpy  
+- **ETL & Ingénierie des données** : dbt, Snowflake, Databricks  
+- **Backend & API** : FastAPI, SQLAlchemy, Pydantic  
+- **Visualisation** : Tableau, Metabase, Matplotlib, Seaborn, Plotly, Streamlit  
+- **DevOps & Qualité** : CI/CD, tests automatisés, monitoring, alerting  
+- **Langages** : Python, SQL  
+
+---
 
 <br>
 
@@ -144,7 +180,7 @@ Ce profil GitHub rassemble mes projets universitaires et personnels, où je trav
 - **Objectif** : Développer des IA capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.
 - **Techniques** : Q-Learning, PPO, environnements personnalisés basés sur **OpenAI Gym**
 TODO Techniques d'IA / DS / ML 
-- **Langages / Librairies** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), pandas, Jupyter, PostgreSQL (🚧 autres à compléter)
+- **Langages / Librairies** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), Jupyter, PostgreSQL (🚧 autres à compléter)
 - **Ressources** :
   - [🐙 Repo GitHub](https://github.com/zoemarquis/autonomous-board-game-agents)
   - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)
@@ -171,7 +207,7 @@ TODO Techniques d'IA / DS / ML
 
 - **UE** : Sciences des Données Appliquées aux Nouveaux Défis  
 - **Techniques** : Clustering, régression, analyse spatio-temporelle  
-- **Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Jupyter, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`  
+- **Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Jupyter, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)S, `matplotlib`, `seaborn`  
 - **Objectif** : Étudier la relation entre les propriétés physico-chimiques et l’indice biologique I2M2 à travers des données environnementales réelles
 
 #### 📁 Ressources :
@@ -364,7 +400,7 @@ This GitHub profile showcases my academic and personal projects, where I use Pyt
 # Technical Skills
 
 - **Languages**: Python, SQL, Java, C/C++, Bash  
-- **Data Science & ML**: pandas, scikit-learn, XAI, time series, PyTorch, TensorFlow  
+- **Data Science & ML**: ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), XAI, time series, PyTorch, TensorFlow  
 - **Visualization**: Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Metabase, Omni  
 - **Backend**: FastAPI, SQLAlchemy, Pydantic, PostgreSQL  
 - **Big Data / ETL**: dbt, Snowflake, Databricks, Apache Spark  
@@ -379,7 +415,7 @@ This GitHub profile showcases my academic and personal projects, where I use Pyt
 
 - **Goal**: Design AI agents able to play various board games with dynamic rules using reinforcement learning.
 - **Techniques**: Q-Learning, PPO, custom environments based on **OpenAI Gym**
-- **Stack**: Python, pandas, Jupyter, PostgreSQL (🚧 *TODO: complete list*)
+- **Stack**: Python, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), Jupyter, PostgreSQL (🚧 *TODO: complete list*)
 - **Resources**:
   - [🐙 GitHub repo](https://github.com/zoemarquis/autonomous-board-game-agents)
   - [📄 Requirements](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)
@@ -405,7 +441,7 @@ This GitHub profile showcases my academic and personal projects, where I use Pyt
 
 - **Course**: Applied Data Science for Emerging Challenges  
 - **Techniques**: Clustering, regression, spatio-temporal analysis  
-- **Stack**: Python, Jupyter, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`  
+- **Stack**: Python, Jupyter, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), `matplotlib`, `seaborn`  
 - **Goal**: Understand how physico-chemical parameters relate to the I2M2 biological index using real environmental data
 
 #### 📁 Resources:
