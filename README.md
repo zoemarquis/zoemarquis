@@ -4,11 +4,9 @@
 -> Data specialist  
 > Interest in all parts of the data stack  
 
-💼 Looking forward to my end-of-studies internship in Data / AI (Feb–Aug 2025)  
-📍 Based in France (born and raised in Lens ❤️💛)  
-
 Currently intern at Welcome to the Jungle,  
 also interned at Decathlon Digital and Solfy  
+TODO : add lien vers pages web 
 
 <!--  
 🌐 [Portfolio](#) (*coming soon*)  
@@ -30,6 +28,8 @@ also interned at Decathlon Digital and Solfy
 
 ### 🛠️ Tech Stack
 
+TODO : tout sur la même ligne 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
@@ -39,6 +39,8 @@ also interned at Decathlon Digital and Solfy
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+
+TODO : ajouter les badges dans chacune des section de mes projets 
 
 ---
 
@@ -51,6 +53,8 @@ also interned at Decathlon Digital and Solfy
 
 
 <br>
+
+---
 
 
 [🇫🇷 Version Française](#french-version)  
@@ -72,6 +76,8 @@ also interned at Decathlon Digital and Solfy
 ---
 
 <a name="french-version"></a>
+
+# version fr 
 
 
 # Profil
@@ -113,10 +119,10 @@ Ce profil GitHub rassemble mes projets universitaires et personnels, où je trav
 - **DevOps / Qualité** : CI/CD, tests automatisés, monitoring, SonarQube  
 - **Outils** : Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab
 
+<br>
 
 ---
 
-<br>
 
 ## 🎓 Projets universitaires
 
@@ -124,13 +130,15 @@ Ce profil GitHub rassemble mes projets universitaires et personnels, où je trav
 
 - **Objectif** : Développer des IA capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.
 - **Techniques** : Q-Learning, PPO, environnements personnalisés basés sur **OpenAI Gym**
-- **Langages / Librairies** : Python, pandas, Jupyter, PostgreSQL (🚧 autres à compléter)
+TODO Techniques d'IA / DS / ML 
+- **Langages / Librairies** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), pandas, Jupyter, PostgreSQL (🚧 autres à compléter)
 - **Ressources** :
   - [🐙 Repo GitHub](https://github.com/zoemarquis/autonomous-board-game-agents)
   - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)
   - [📑 Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
   - [🖥️ Diapos de soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
 
+<br>
 ---
 
 ### 🔐 Projet – *Protection des données massives distribuées*
@@ -138,7 +146,7 @@ Ce profil GitHub rassemble mes projets universitaires et personnels, où je trav
 - **Objectif** : Détecter des anomalies dans des données cyber-physiques à travers une chaîne complète d'analyse, avec interface Web via **Streamlit**
 - **Contenu** :
   - Nettoyage, prétraitement, modélisation, visualisation interactive
-- **Langages / Outils** : Python, Streamlit, Jupyter, (🚧 librairies à compléter)
+- **Langages / Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Streamlit, Jupyter, (🚧 librairies à compléter)
 - **Ressources** :
   - [🐙 Repo GitHub](https://github.com/zoemarquis/anomaly-detection-project)
   - [📄 Énoncé](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)
@@ -150,7 +158,7 @@ Ce profil GitHub rassemble mes projets universitaires et personnels, où je trav
 
 - **UE** : Sciences des Données Appliquées aux Nouveaux Défis  
 - **Techniques** : Clustering, régression, analyse spatio-temporelle  
-- **Outils** : Python, Jupyter, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`  
+- **Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Jupyter, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`  
 - **Objectif** : Étudier la relation entre les propriétés physico-chimiques et l’indice biologique I2M2 à travers des données environnementales réelles
 
 #### 📁 Ressources :
