@@ -48,6 +48,7 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 
 ---
 
+
 # Navigation
 
 - [👷‍♀️ Contact](#contact)
@@ -55,7 +56,7 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
   - [À propos de moi](#a-propos-de-moi)   
   - [Parcours professionnel](#parcours-professionnel)  
   - [Formation](#formation)  
-  - [COMPÉTENCES TECHNIQUES](#competences-techniques)  
+  - [Compétences techniques](#competences-techniques)  
   - [Projets universitaires](#projets-universitaires)
     - PROJET MASTER
     - PROJET PROTECTION
@@ -68,6 +69,7 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
 todo FAIRE L'ÉQUIVALENT 
 
 <br>
+
 --- 
 
 <a name="contact"></a>
@@ -78,6 +80,7 @@ todo FAIRE L'ÉQUIVALENT
 - LinkedIn : [zoemarquis](https://linkedin.com/in/zoemarquis)  
 
 <br>
+
 ---
 
 <a name="french-version"></a>
@@ -117,11 +120,11 @@ _Printemps & été 2023 (Stage 5 mois)_
 
 **Master Informatique – Sciences des données & systèmes complexes**  
 Université de Strasbourg, 2023-2025 (en cours, fin prévue août 2025)  
-- Master 1 : mention Très Bien, major de promotion  
+> Master 1 : mention Très Bien, major de promotion  
 
 **Licence Informatique**  
 Université d’Artois, 2020-2023  
-- Mention Très Bien, major de promotion  
+> Mention Très Bien, major de promotion  
 
 <a name="competences-techniques"></a>
 # Compétences techniques
@@ -145,7 +148,7 @@ Université d’Artois, 2020-2023
 - **Objectif** : Développer des IA capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.
 - **Techniques** : Q-Learning, PPO, environnements personnalisés basés sur **OpenAI Gym**
 TODO Techniques d'IA / DS / ML 
-- **Langages / Librairies** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), Jupyter, PostgreSQL (🚧 autres à compléter)
+- **Langages / Librairies** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), PostgreSQL (🚧 autres à compléter)
 - **Ressources** :
   - [🐙 Repo GitHub](https://github.com/zoemarquis/autonomous-board-game-agents)
   - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)
@@ -160,7 +163,7 @@ TODO Techniques d'IA / DS / ML
 - **Objectif** : Détecter des anomalies dans des données cyber-physiques à travers une chaîne complète d'analyse, avec interface Web via **Streamlit**
 - **Contenu** :
   - Nettoyage, prétraitement, modélisation, visualisation interactive
-- **Langages / Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), Jupyter, (🚧 librairies à compléter)
+- **Langages / Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), (🚧 librairies à compléter)
 - **Ressources** :
   - [🐙 Repo GitHub](https://github.com/zoemarquis/anomaly-detection-project)
   - [📄 Énoncé](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)
@@ -172,7 +175,7 @@ TODO Techniques d'IA / DS / ML
 
 - **UE** : Sciences des Données Appliquées aux Nouveaux Défis  
 - **Techniques** : Clustering, régression, analyse spatio-temporelle  
-- **Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Jupyter, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)S, `matplotlib`, `seaborn`  
+- **Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)S, `matplotlib`, `seaborn`  
 - **Objectif** : Étudier la relation entre les propriétés physico-chimiques et l’indice biologique I2M2 à travers des données environnementales réelles
 
 #### 📁 Ressources :
@@ -298,31 +301,6 @@ repo github :
 
 
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 <br>
 <br>
