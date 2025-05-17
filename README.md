@@ -9,12 +9,14 @@
 
 <br>
 
-
 ---
 
 <a name="french-version"></a>
 
-# 🇫🇷 Version Française
+
+<a name="french-version"></a>
+
+# Profil
 
 Je m'appelle **Zoé Marquis**, actuellement en Master 2 Informatique – Sciences des Données et Systèmes Complexes à l’Université de Strasbourg.  
 Je me spécialise en **data science**, avec des expériences concrètes en **machine learning**, **reinforcement learning**, **séries temporelles** et **détection d’anomalies** dans des contextes applicatifs variés.
@@ -25,26 +27,25 @@ Ce profil GitHub regroupe mes projets universitaires et personnels, où je mobil
 
 ---
 
-## 🧭 Parcours professionnel
+# Parcours professionnel
 
-### 🔹 Welcome to the Jungle – *Analytics Engineer* (2025)
-- Modélisation analytique avec **dbt**
-- Création de dashboards et mise en place de bonnes pratiques DevOps
-- Automatisation de documentation, assistance métier via IA
+### 🔹 Welcome to the Jungle – *Analytics Engineer* (2025)  
+- Modélisation analytique avec **dbt**  
+- Création de dashboards et mise en place de bonnes pratiques DevOps  
+- Automatisation de documentation, assistance métier via IA  
 
-### 🔹 Solfy – *Data Scientist / ML Engineer* (2024)
-- Développement backend (**FastAPI**, **SQLAlchemy**)
-- Modélisation ML, suivi de qualité des données
-- Livraison rapide de fonctionnalités B2B/B2C
+### 🔹 Solfy – *Data Scientist / ML Engineer* (2024)  
+- Développement backend (**FastAPI**, **SQLAlchemy**)  
+- Modélisation ML, suivi de qualité des données  
+- Livraison rapide de fonctionnalités B2B/B2C  
 
-### 🔹 Decathlon Digital – *Data Analyst* (2023)
-- Analyse de bout en bout : ingestion, transformation, visualisation
-- Mise en place d’outils d’aide à la décision pour améliorer les processus internes
+### 🔹 Decathlon Digital – *Data Analyst* (2023)  
+- Analyse de bout en bout : ingestion, transformation, visualisation  
+- Mise en place d’outils d’aide à la décision pour améliorer les processus internes  
 
 ---
 
-
-## 🔧 Compétences techniques
+# Compétences techniques
 
 - **Langages** : Python, SQL, Java, C/C++, Bash  
 - **Data Science & ML** : pandas, scikit-learn, XAI, séries temporelles, PyTorch, TensorFlow  
@@ -54,7 +55,6 @@ Ce profil GitHub regroupe mes projets universitaires et personnels, où je mobil
 - **DevOps / Qualité** : CI/CD, tests automatisés, monitoring, SonarQube  
 - **Outils** : Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab
 
---> TODO ajoute dbt  
 
 ---
 
@@ -253,35 +253,36 @@ repo github :
 <a name="english-version"></a>
 
 # 🇬🇧 English Version
+# Profile
 
-My name is **Zoé Marquis**, currently pursuing a Master's degree in Computer Science – *Data Science and Complex Systems* at the University of Strasbourg.  
-I specialize in **data science**, with hands-on experience in **machine learning**, **reinforcement learning**, **time series**, and **anomaly detection** across a variety of application domains.
+My name is **Zoé Marquis**, currently a Master 2 student in Computer Science – Data Science and Complex Systems at the University of Strasbourg.  
+I specialize in **data science**, with hands-on experience in **machine learning**, **reinforcement learning**, **time series analysis**, and **anomaly detection** across various application domains.
 
-Through my internships at **Decathlon Digital**, **Solfy**, and **Welcome to the Jungle**, I've gained end-to-end data lifecycle expertise — from ingestion to advanced analysis — and a strong interest in projects involving logic, AI, and complex systems.
+Through internships at **Decathlon Digital**, **Solfy**, and **Welcome to the Jungle**, I gained a comprehensive understanding of the data lifecycle — from ingestion to advanced analysis — with a strong interest in logical reasoning, AI, and exploring complex systems.
 
-This GitHub profile showcases my academic and personal projects, using Python, SQL, visualization tools, ML techniques, and modern frameworks like **dbt**, **Streamlit**, **Snowflake**, and **FastAPI**.
-
----
-
-## 🧭 Professional Experience
-
-### 🔹 Welcome to the Jungle – *Analytics Engineer* (2025)
-- Data modeling using **dbt**
-- Dashboard creation and DevOps best practices implementation
-- Automated documentation & AI-powered business support
-
-### 🔹 Solfy – *Data Scientist / ML Engineer* (2024)
-- Backend development (**FastAPI**, **SQLAlchemy**)
-- ML modeling and data quality monitoring
-- Fast delivery of B2B/B2C features
-
-### 🔹 Decathlon Digital – *Data Analyst* (2023)
-- End-to-end analytics: ingestion, transformation, visualization
-- Decision support tools for improving internal operations
+This GitHub profile showcases my academic and personal projects, where I use Python, SQL, visualization tools, machine learning techniques, and modern frameworks like **dbt**, **Streamlit**, **Snowflake**, and **FastAPI**.
 
 ---
 
-## 🔧 Technical Skills
+# Professional Journey
+
+### 🔹 Welcome to the Jungle – *Analytics Engineer* (2025)  
+- Analytical modeling with **dbt**  
+- Dashboard creation and implementation of DevOps best practices  
+- Documentation automation and business support through AI  
+
+### 🔹 Solfy – *Data Scientist / ML Engineer* (2024)  
+- Backend development (**FastAPI**, **SQLAlchemy**)  
+- ML modeling, data quality monitoring  
+- Rapid delivery of B2B/B2C features  
+
+### 🔹 Decathlon Digital – *Data Analyst* (2023)  
+- End-to-end analysis: ingestion, transformation, visualization  
+- Implementation of decision support tools to improve internal processes  
+
+---
+
+# Technical Skills
 
 - **Languages**: Python, SQL, Java, C/C++, Bash  
 - **Data Science & ML**: pandas, scikit-learn, XAI, time series, PyTorch, TensorFlow  
@@ -289,9 +290,7 @@ This GitHub profile showcases my academic and personal projects, using Python, S
 - **Backend**: FastAPI, SQLAlchemy, Pydantic, PostgreSQL  
 - **Big Data / ETL**: dbt, Snowflake, Databricks, Apache Spark  
 - **DevOps / Quality**: CI/CD, automated testing, monitoring, SonarQube  
-- **Tools**: Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab  
-
---> 🛠️ *TODO: Add more details about dbt projects*
+- **Tools**: Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab
 
 ---
 
@@ -567,57 +566,5 @@ https://github.com/Ileriayo/markdown-badges
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
-
-
-
-
-# Test section : 
-
-## Hi! I'm Zoé 😄
-
-### Data Science & AI Enthusiast | Curious Mind in Tech
-
-🎓 Master’s in Computer Science (Data Science & Complex Systems) @ [University of Strasbourg](https://en.unistra.fr/)  
-->  data sepcialist 
-> interest in all data stack
-> 
-💼 Looking forward to my end-of-studies internship in Data / AI (Feb–Aug 2025)  
-📍 Based in France (borned and raised in  Lens coeur rouge et coeur jaune)
-
-currently intern at welcome to the jungle
-also intern at deachtlon digital and solfy 
-<!--
-🌐 [Portfolio](#) (*coming soon*)  
-📫 Reach me at: [zoe.marquis.zm@gmail.com](mailto:your.email@example.com)  
--->
-
-<div align="center">
-  <b>Driven by curiosity, guided by logic, inspired by creativity</b>
-
-  ![Coding Running Music](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&width=460&lines=40%25+%7B+coding+%7D;30%25+%7B+thinking+%7D;20%25+%7B+playing+music+%7D;10%25+%7B+running+%7D;repeat+%7B+while+(alive)+%7D)
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3E4E6D?style=flat&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-| <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zoemarquis&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zoé's GitHub stats" /></a> | <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemarquis&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zoemarquis&theme=transparent&hide_border=true)
 
 
