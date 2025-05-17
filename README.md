@@ -4,16 +4,53 @@
 
 <br>
 
+> ⚠️ **Work in Progress**  
+> Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modifications.
+
+<br>
+
 ---
 
 <a name="french-version">🇫🇷 **Version Française**</a>
 
 <br>
 
-## Bienvenue sur mon profil GitHub !
+Je m'appelle **Zoé Marquis**, actuellement en Master 2 Informatique – Sciences des Données et Systèmes Complexes à l’Université de Strasbourg, formée à la **data science**, avec des expériences en **machine learning**, **reinforcement learning**, **séries temporelles** et **détection d’anomalies** dans des contextes applicatifs variés.
 
+Au fil de mes stages chez **Decathlon Digital**, **Solfy** et **Welcome to the Jungle**, j’ai acquis une solide expérience sur l’ensemble du cycle de vie des données — de l’ingestion au reporting — ainsi qu’un fort intérêt pour les problématiques combinant raisonnement logique, IA, et analyse complexe.
 
-Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à travers mes projets GitHub. Vous y trouverez une collection de mes projets universitaires, mettant en avant mes compétences dans divers langages de programmation et technologies. N'hésitez pas à explorer et à plonger dans le code !
+Ce profil GitHub regroupe mes projets universitaires et personnels, où je mets en pratique mes compétences en Python, SQL, visualisation, apprentissage automatique, traitement de données à grande échelle, mais aussi en outils modernes tels que **dbt**, **Streamlit**, **Snowflake**, ou **FastAPI**.
+
+---
+
+## 🧭 Parcours professionnel
+
+### Stages
+
+### 🔹 Welcome to the Jungle – Analytics Engineer (2025)
+- Modélisation analytique avec dbt, création de dashboards et mise en place de bonnes pratiques DevOps.
+- Automatisation de la documentation, support aux équipes métier via des assistants IA.
+
+### 🔹 Solfy – Data Scientist / ML Engineer (2024)
+- Développement backend (FastAPI, SQLAlchemy), modélisation, suivi de qualité des données.
+- Livraison rapide de fonctionnalités B2B/B2C dans un environnement startup.
+
+### 🔹 Decathlon Digital – Data Analyst (2023)
+- Analyse complète du cycle de la donnée : ingestion, transformation, visualisation.
+- Outils de reporting et aide à la décision pour améliorer les processus internes.
+
+---
+
+## 🔧 Compétences techniques clés
+
+- **Langages** : Python, SQL, Java, C/C++, Bash
+- **Data Science & ML** : scikit-learn, pandas, XAI, séries temporelles, PyTorch, TensorFlow
+- **Visualisation** : Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Metabase, Omni
+- **Backend** : FastAPI, SQLAlchemy, Pydantic, PostgreSQL
+- **Big Data / ETL** : dbt, Snowflake, Databricks, Apache Spark
+- **DevOps / Qualité** : CI/CD, tests automatisés, monitoring, SonarQube
+- **Outils** : Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab
+
 
 <br>
 
@@ -24,41 +61,317 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
   - ### Projet de Master : Développement d’agents autonomes et création de nouvelles règles pour jeux de plateau via apprentissage par renforcement
     - **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : Apprentissage par Renforcement (Q-Learning, PPO, etc.)
     - **Langage de Programmation** : Python 
-    - 🚧 **Librairies** :
+    - 🚧 **Librairies** : TODO 
     - 🚧 **Outils** :
       - Jupyter Notebooks (🚧 pour les stats, le RL, ...)
       - PostgreSQL pour la gestion de base de données
       - Pandas pour la manipulation de données
+      - Environnements personnalisés basés sur **OpenAI Gym**
+      - ...
+    - **Ressources** :
+      - [🐙 Repo Github](https://github.com/zoemarquis/autonomous-board-game-agents)
+      - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
+      - [📑 Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
+      - [🖥️ Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
+
+  ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+
+
+  - ### 🔐 Protection des données massives distribuées
+
+    Ce projet vise à appliquer une chaîne complète d’analyse de données sur un **jeu de données cyber-physiques** (réseaux + capteurs physiques), avec une interface Web interactive pour visualiser les résultats via **Streamlit**.
+
+    TODO : un tout petit peu plus de détail
+
+    - **Techniques d'Intelligence Artificielle (IA) / Data Science (DS)** : TODO
+    - **Langage de Programmation** : TODO 
+    - 🚧 **Librairies** : TODO 
+    - 🚧 **Outils** : TODO
+
+
+    - **Ressources** :  
+      - [🐙 Repo Github](https://github.com/zoemarquis/anomaly-detection-project.git)  
+            📂 Structure du projet
+            Le repo contient :
+            - Le code source de l’application **Streamlit**  
+            - Les **notebooks** utilisés pour le traitement des données et l'entraînement des modèles  
+            - Un fichier `requirements.txt` listant les dépendances  
+            - Le rapport détaillant l’approche, les résultats et les analyses  
+      - [📄 Énoncé](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)  
+      - [📘 Rapport complet](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/Projet_protection_Rapport.pdf)  
+
+
+  ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+
+## 🎓 Projet de Master – Analyse de la relation entre la physico-chimie de l'eau et son état biologique
+
+# 🌊 EcoStream Analytics  
+*Explorer la qualité de l'eau à travers des données multidimensionnelles grâce à la science des données*
+
+
+- **Unité d’enseignement** : Sciences des Données Appliquées aux Nouveaux Défis  
+- **Techniques utilisées** : Clustering, Régression, Analyse temporelle et spatiale  
+- **Langage de programmation** : Python  
+- **Librairies** : `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`  
+- **Outils** :
+  - Jupyter Notebooks pour l’analyse exploratoire et la modélisation
+
+## 📁 Ressources
+
+-  [Repo](https://github.com/zoemarquis/ecostream-analytics.git)  
+  - [Code `.ipynb`](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades.ipynb)  
+  - [Version PDF pour le rendu](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades-MARQUIS-KRUZIC.pdf)  
+  - 📌 *À faire* :
+    - Ajouter l’énoncé du projet au dépôt  
+    - Organiser les fichiers et nettoyer le dépôt  
+
+
+  ## 🌍 Contexte et objectifs
+
+  Ce projet s'intéresse à la relation entre les propriétés physico-chimiques de l'eau et son état biologique, dans le but de mieux comprendre les interactions entre ces dimensions à partir de jeux de données environnementaux réels.
+
+  Les objectifs sont :
+  - Identifier des structures spatiales pertinentes comme les **hydroécorégions**
+  - Explorer l’influence des paramètres physico-chimiques sur la qualité écologique des milieux aquatiques
+
+  Pour cela, nous avons appliqué des **méthodes de clustering** sur des données agrégées par saison, en tenant compte d’un éventuel **décalage temporel** entre les mesures physico-chimiques et biologiques, afin de mieux refléter la dynamique des écosystèmes.
+
+  Les données ont été rigoureusement **nettoyées, préparées et agrégées** par saison, ce qui nous a permis de dégager des regroupements de stations écologiquement cohérents.
+
+  Enfin, avec le décalage temporel jugé le plus pertinent, nous avons exploré une **approche de régression** pour prédire l’état biologique (indice I2M2) à partir des paramètres physico-chimiques, des hydroécorégions et de la temporalité.
+
+  ## 🔎 Analyse exploratoire
+
+  ### Objectifs
+
+  - Comprendre le contenu de chaque jeu de données  
+  - Identifier les colonnes pertinentes et supprimer les autres  
+  - Remodeler les données pour les rendre exploitables
+
+  ### Description des jeux de données
+
+  1. **Stations de mesure** : coordonnées (latitude, longitude) et identifiants uniques
+  2. **Données physico-chimiques** : mesures (nitrates, phosphates, pH…), avec date, support, fraction analysée
+  3. **Données biologiques** : indice I2M2, associé à une station et une date
+  4. **Hydroécorégions** : unités spatiales écologiques classant les milieux aquatiques en France
+
+  ⚠️ La répartition des stations par hydroécorégion est très variable (de 25 à 1360), ce qui complique la caractérisation homogène. Le nombre final de stations dépend aussi du nettoyage des données.
+
+
+      - PostgreSQL pour la gestion de base de données
+      - Pandas pour la manipulation de données
+      - Environnements personnalisés basés sur **OpenAI Gym**
+      - ...
     - **Ressources** :
       - [Repo Github](https://github.com/zoemarquis/autonomous-board-game-agents)
-      - [Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
+      - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf) 
       - [Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
       - [Diapos de la soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
 
-  ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+ 
+# 🌊 EcoStream Analytics  
+*Explorer la qualité de l'eau à travers des données multidimensionnelles grâce à la science des données*
 
-  - ### 🚧 Protection [des données massives distribuées ?]
-    - **Ressources** :
-      - [Repo Github](TODO)
+## 🎓 Projet de Master – Analyse de la relation entre la physico-chimie de l'eau et son état biologique
 
-  ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+- **Unité d’enseignement** : Sciences des Données Appliquées aux Nouveaux Défis  
+- **Techniques utilisées** : Clustering, Régression, Analyse temporelle et spatiale  
+- **Langage de programmation** : Python  
+- **Librairies** : `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`  
+- **Outils** :
+  - Jupyter Notebooks pour l’analyse exploratoire et la modélisation
 
-  - ### 🚧 Sciences des Données Appliquées aux Nouveaux Défis : Eau / Naïades
-    - **Ressources** :
-      - [Repo Github](https://github.com/zoemarquis/projet_naiades)
+## 📁 Ressources
 
-  ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+- Dépôt GitHub : [EcoStream Analytics](https://github.com/zoemarquis/ecostream-analytics.git)  
+  - [Code `.ipynb`](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades.ipynb)  
+  - [Version PDF pour le rendu](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades-MARQUIS-KRUZIC.pdf)  
+  - 📌 *À faire* :
+    - Ajouter l’énoncé du projet au dépôt  
+    - Organiser les fichiers et nettoyer le dépôt  
 
-  - ### 🚧 Sciences des Données Appliquées aux Nouveaux Défis : Batterie / XAI / industrie 4.0  
-    - **Ressources** :
-      - [Repo Github](TODO)
+---
+
+## 🌍 Contexte et objectifs
+
+Ce projet s'intéresse à la relation entre les propriétés physico-chimiques de l'eau et son état biologique, dans le but de mieux comprendre les interactions entre ces dimensions à partir de jeux de données environnementaux réels.
+
+Les objectifs sont :
+- Identifier des structures spatiales pertinentes comme les **hydroécorégions**
+- Explorer l’influence des paramètres physico-chimiques sur la qualité écologique des milieux aquatiques
+
+Pour cela, nous avons appliqué des **méthodes de clustering** sur des données agrégées par saison, en tenant compte d’un éventuel **décalage temporel** entre les mesures physico-chimiques et biologiques, afin de mieux refléter la dynamique des écosystèmes.
+
+Les données ont été rigoureusement **nettoyées, préparées et agrégées** par saison, ce qui nous a permis de dégager des regroupements de stations écologiquement cohérents.
+
+Enfin, avec le décalage temporel jugé le plus pertinent, nous avons exploré une **approche de régression** pour prédire l’état biologique (indice I2M2) à partir des paramètres physico-chimiques, des hydroécorégions et de la temporalité.
+
+---
+
+## 🔎 Analyse exploratoire
+
+### Objectifs
+
+- Comprendre le contenu de chaque jeu de données  
+- Identifier les colonnes pertinentes et supprimer les autres  
+- Remodeler les données pour les rendre exploitables
+
+### Description des jeux de données
+
+1. **Stations de mesure** : coordonnées (latitude, longitude) et identifiants uniques
+2. **Données physico-chimiques** : mesures (nitrates, phosphates, pH…), avec date, support, fraction analysée
+3. **Données biologiques** : indice I2M2, associé à une station et une date
+4. **Hydroécorégions** : unités spatiales écologiques classant les milieux aquatiques en France
+
+⚠️ La répartition des stations par hydroécorégion est très variable (de 25 à 1360), ce qui complique la caractérisation homogène. Le nombre final de stations dépend aussi du nettoyage des données.
+
+---
+
+## 🧪 Préparation des données physico-chimiques
+
+### Démarche
+
+Les données physico-chimiques (~9 millions de lignes) ont été traitées en deux étapes principales :
+
+#### 1. **Nettoyage**
+- Suppression des doublons et valeurs aberrantes
+- Sélection des supports, fractions et unités pertinentes
+- Élimination des colonnes non utiles (laboratoire, préleveur, etc.)
+- Suppression de la granularité horaire : analyse à l’échelle saisonnière
+
+#### 2. **Agrégation**
+- Regroupement par station, saison et année
+- Calcul de statistiques (moyenne, médiane…) par paramètre
+- Création d’une table finale pour l’analyse
+
+## ✅ Conclusion provisoire
+
+Cette phase de préparation était essentielle pour garantir la qualité des analyses spatiales et temporelles à venir. Elle nous permet d’aborder la question centrale :
+
+> **Quel lien peut-on établir entre la physico-chimie de l’eau et son état biologique ?**
+
+Les prochaines étapes consisteront à analyser les regroupements obtenus et à tester des modèles prédictifs pour évaluer la capacité des facteurs physico-chimiques à expliquer l’état écologique des milieux aquatiques.
+
 
   ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
   - ### 🚧 Apprentissage collaboratif - stream reasoning
+
+  ## 🔧 Projet : Raisonnement basé sur les flux RDF pour la détection de situations de défaillance
+
+### 🎯 Objectifs
+- Modéliser une ontologie représentant une chaîne de production industrielle.
+- Représenter les contraintes et situations de défaillance sous forme de règles SPARQL.
+- Intégrer des flux RDF simulant des données capteurs en temps réel.
+- Utiliser C-SPARQL pour détecter des situations critiques et les injecter dans l’ontologie.
+- Analyser les avantages et limites d’une approche knowledge-based vs data-driven.
+
+---
+
+### 🧰 Outils
+- **Java** : développement principal.
+- **C-SPARQL Engine** : moteur de raisonnement sur des flux RDF.
+- **Protégé** : modélisation de l’ontologie OWL (optionnel).
+- **Owlready2** : alternative Python si besoin.
+- **Maven** ou **Gradle** : gestion de dépendances.
+- **Apache Jena** / **Commons RDF** : manipulation des graphes RDF.
+- **Git** : versionnage du projet.
+
+---
+
+### 📚 Ressources
+- [Projet de base sur Moodle](#)
+- [Documentation C-SPARQL](http://streamreasoning.org/resources/c-sparql/)
+- [Ontologie SSN (Semantic Sensor Network)](https://www.w3.org/TR/vocab-ssn/)
+
+
     - **Ressources** :
       - [Repo Github](TODO)
       - [Rapport](TODO)
+
+
+  ## 🔧 Projet : Raisonnement basé sur les flux RDF pour la détection de situations de défaillance
+
+### 🎯 Objectifs
+- Modéliser une ontologie représentant une chaîne de production industrielle.
+- Représenter les contraintes et situations de défaillance sous forme de règles SPARQL.
+- Intégrer des flux RDF simulant des données capteurs en temps réel.
+- Utiliser C-SPARQL pour détecter des situations critiques et les injecter dans l’ontologie.
+- Analyser les avantages et limites d’une approche knowledge-based vs data-driven.
+
+---
+
+### 🧰 Outils
+- **Java** : développement principal.
+- **C-SPARQL Engine** : moteur de raisonnement sur des flux RDF.
+- **Protégé** : modélisation de l’ontologie OWL (optionnel).
+- **Owlready2** : alternative Python si besoin.
+- **Maven** ou **Gradle** : gestion de dépendances.
+- **Apache Jena** / **Commons RDF** : manipulation des graphes RDF.
+- **Git** : versionnage du projet.
+
+---
+
+### 📚 Ressources
+repo github : 
+
+---
+
+### 🧠 Méthodologie
+
+#### 1. Modélisation de l’ontologie
+- **Classes** :
+  - `Machine`, `Sensor`, `Property`, `Measurement`, `FailureSituation`, `Constraint`
+- **Relations** :
+  - `hasSensor`, `measures`, `hasMeasurement`, `belongsTo`, `hasConstraint`
+- **Individus** :
+  - Machines `M1` à `M4`, Capteurs `S1` à `S14`, Contraintes `c1` à `c23`
+
+#### 2. Compréhension du code de base
+- Explorer les fichiers fournis
+- Identifier le flux RDF simulé (structure, fréquence)
+- Intégrer les règles C-SPARQL dans le pipeline
+
+#### 3. Rédaction des requêtes C-SPARQL
+- 1 requête par situation critique (S1 à S14)
+- Utiliser des fenêtres glissantes (`RANGE` + `STEP`)
+- En cas de détection, instancier une classe `FailureSituation`
+
+#### 4. Analyse critique
+- **Forces** : interprétabilité, logique explicite, traçabilité des règles
+- **Limites** : seuils fixes, peu de flexibilité, scalabilité difficile
+- **Pistes d’évolution** : apprentissage automatique pour ajuster les règles
+
+---
+
+### ✅ Livrables attendus
+- Code Java modifié (seuls les fichiers nécessaires)
+- Rapport PDF 4 pages :
+  1. Modélisation ontologique
+  2. Représentation et traitement des flux RDF
+  3. Requêtes C-SPARQL et détection
+  4. Analyse raisonnement symbolique vs data-driven
+
+
+
+
+
+
+
+
+
+
+
+
+  ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+  XAI 
+
+  - ### 🚧 Sciences des Données Appliquées aux Nouveaux Défis : Batterie / XAI / industrie 4.0  
+    - **Ressources** :
+      - [Repo Github](TODO)
 
   ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
@@ -102,21 +415,18 @@ Salut ! 👋 Je suis ravie de partager mon parcours académique avec vous à tra
       - [Repo](TODO)
 
 
-
-
-
-
-
-
 <br>
-
-
 ---
 
 ### LICENCE INFORMATIQUE
 
   - Sokoban
     - java 
+
+  - ObjVLisp
+
+  - RayTracer
+
 
 <br>
 
@@ -183,6 +493,35 @@ Hi there! 👋 I'm excited to share my academic journey with you through my GitH
 <br>
 
 --- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -328,3 +667,58 @@ https://github.com/Ileriayo/markdown-badges
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
+# Test section : 
+
+## Hi! I'm Zoé 😄
+
+### Data Science & AI Enthusiast | Curious Mind in Tech
+
+🎓 Master’s in Computer Science (Data Science & Complex Systems) @ [University of Strasbourg](https://en.unistra.fr/)  
+->  data sepcialist 
+> interest in all data stack
+> 
+💼 Looking forward to my end-of-studies internship in Data / AI (Feb–Aug 2025)  
+📍 Based in France (borned and raised in  Lens coeur rouge et coeur jaune)
+
+currently intern at welcome to the jungle
+also intern at deachtlon digital and solfy 
+<!--
+🌐 [Portfolio](#) (*coming soon*)  
+📫 Reach me at: [zoe.marquis.zm@gmail.com](mailto:your.email@example.com)  
+-->
+
+<div align="center">
+  <b>Driven by curiosity, guided by logic, inspired by creativity</b>
+
+  ![Coding Running Music](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&width=460&lines=40%25+%7B+coding+%7D;30%25+%7B+thinking+%7D;20%25+%7B+playing+music+%7D;10%25+%7B+running+%7D;repeat+%7B+while+(alive)+%7D)
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3E4E6D?style=flat&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+| <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zoemarquis&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zoé's GitHub stats" /></a> | <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemarquis&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=transparent&hide_border=true)
+-->
+
