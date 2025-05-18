@@ -1,4 +1,9 @@
-# Zoé Marquis  
+# Zoé Marquis 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=4000&pause=500&color=5926FF&vCenter=true&random=true&width=500&lines=Data+is+messy.+I%E2%80%99m+not.+%F0%9F%A7%BC;Building+smart+systems+from+noisy+data+%F0%9F%A7%A0%F0%9F%A4%96;Surf+goals+%F0%9F%8F%84+%3D%3E+training+mode+%F0%9F%8F%8A%F0%9F%8F%8B%EF%B8%8F%F0%9F%A7%98%F0%9F%9B%B9%F0%9F%8F%83;Sketching+life+in+watercolor+%F0%9F%8E%A8+;Lens-made+%F0%9F%94%B4%F0%9F%9F%A1%2C+world-shaped+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+---
 
 
 > ⚠️ 
@@ -11,14 +16,7 @@
 📫 Reach me at: [zoe.marquis.zm@gmail.com](mailto:zoe.marquis.zm@gmail.com)  
 -->
 
-<!-- TODO 
-<div align="center">
-  <b>Driven by curiosity, guided by logic, inspired by creativity</b>
 
-  https://github.com/DenverCoder1/readme-typing-svg
-
-  ![Coding Running Music](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&width=460&lines=40%25+%7B+coding+%7D;30%25+%7B+thinking+%7D;20%25+%7B+playing+music+%7D;10%25+%7B+running+%7D;repeat+%7B+while+(alive)+%7D)
-</div> -->
 
 <!-- TODO : add small resume for each public repo -->
 <!-- 
