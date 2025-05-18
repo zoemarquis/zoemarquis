@@ -8,15 +8,7 @@
 > Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modification.
 
 ---
-
-| <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zoemarquis&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zoé's GitHub stats" /></a> | <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemarquis&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zoemarquis&theme=transparent&hide_border=true)
-
-TEST 
-
-
+ 
 <div align="center">
 
 | <a href="https://github.com/zoemarquis"><img src="https://github-readme-stats.vercel.app/api?username=zoemarquis&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zoé's GitHub stats" /></a> | <a href="https://github.com/zoemarquis"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemarquis&layout=compact&theme=transparent&hide_border=true" /></a> |
@@ -43,8 +35,7 @@ TEST
     - [🔐 *Détection d’anomalies dans des systèmes de données cyber-physiques distribuées*](#projet-protection)
     - [🌊 *EcoStream Analytics – Analyse physico-chimie vs état biologique de l’eau*](#projet-naiades)
     - [🔧 *Stream Reasoning : Raisonnement sur flux RDF pour détecter des défaillances*](#stream-reasoning)
-
-  <!-- - [Projet XAI](#projet-xai) -->
+    - [🔋 *XAI – Prédiction explicable de la dégradation des batteries*](#projet-xai)
 
   TODO : à compléter
 
@@ -110,7 +101,7 @@ TEST
   - Mention Très Bien, major de promotion  
 
 <a name="competences-techniques"></a>
-# Compétences techniques
+## Compétences techniques
 
 - **Langages** : <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
@@ -123,6 +114,9 @@ TEST
 - **Data Science & Machine Learning** : <br> 
 régression, clustering, séries temporelles, XAI 
 TODO : enrichir 
+- **Data Science & Machine Learning** :  
+  Régression linéaire et logistique, clustering (K-means, DBSCAN), séries temporelles (ARIMA, AR? MA, .... TODO ), XAI (SHAP, LIME), pipelines de modélisation, évaluation croisée, optimisation d'hyperparamètres
+
 – 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br>
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) <br>
@@ -282,8 +276,51 @@ TODO : enrichir
 
 ---
 
-projet xai : 
+<a name="projet-xai"></a>
 
+### 🔋 *XAI – Prédiction explicable de la dégradation des batteries*
+
+- **UE** : Sciences des Données Appliquées aux Nouveaux Défis  
+
+- **Objectifs** : 
+  Développer un modèle de prédiction du *State of Health* (SOH) des batteries lithium-ion à partir des données de cycles de charge du MIT, avec interprétation des résultats via des techniques d’explicabilité (XAI).  
+  - Prédire le SOH à différents stades de vie de la batterie  
+  - Comparer plusieurs modèles de machine learning, classiques et profonds  
+  - Interpréter les prédictions avec des méthodes d’explicabilité (SHAP, LIME, PyXAI)  
+  - Identifier les variables clés pour la maintenance prédictive
+
+- **Techniques [d’IA / Data Science / ML]** :  
+  - Modélisation sur séries temporelles  
+  - Régression supervisée et apprentissage automatique supervisé  
+  - Modèles classiques : régression linéaire, Random Forest  
+  - Modèles avancés : XGBoost, CNN 1D, RNN, LSTM  
+  - Explicabilité des modèles : SHAP (importance globale et locale), LIME, PyXAI, TimeSHAP (en test)  
+  - Optimisation des performances : sélection de variables, tuning d’hyperparamètres (grid search)  
+  - Travail sur données industrielles réelles avec nettoyage et transformation
+
+
+- **Langages / Outils** :  
+  ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+  ![XGBoost](https://img.shields.io/badge/XGBoost-FF4B00?style=for-the-badge&logo=xgboost&logoColor=white)  
+  ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)  
+  Jupyter Notebooks, Git, environnement virtuel  
+  SHAP, LIME, PyXAI, TimeSHAP (tentative)
+  - Librairies XAI : SHAP, LIME, PyXAI, TimeSHAP
+  TODO cjeck ici 
+
+- **Méthodologie** : 
+  - Prétraitement, nettoyage et transformation des données (MIT Battery Dataset)  
+  - Entraînement et comparaison de plusieurs modèles de régression  
+  - Évaluation des performances (MSE, RMSE, etc.)  
+  - Analyse d’explicabilité des prédictions  
+  - Intégration progressive de modèles séquentiels explicables  
+  - Documentation claire et pipeline reproductible
+
+- **Ressources** :  
+  - [Repo Github](TODO)  
+  - [Rapport](TODO)  
 
 <br>
 <br>
