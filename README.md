@@ -218,7 +218,7 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 ### 🎲 *Agents autonomes pour jeux de plateau*
 
 - **UE** : Projet de Master  
-- **Objectif** : Développer des IA capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.  
+- **Objectif** : Développer des agents autonomes capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.  
 - **Techniques [d’IA / de Data Science / de ML]** : Q-Learning, PPO, environnements personnalisés basés sur **OpenAI Gym** 🤖📊🧠  
 - **Langages / Librairies** : 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -363,8 +363,9 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
   - Documentation claire et pipeline reproductible
 
 - **Ressources** :  
-  - [Repo Github](TODO)  
+  - [Repo Github](TODO)  https://github.com/zoemarquis/xai-battery-degradation.git
   - [Rapport](TODO)  
+  énoncé:  https://github.com/zoemarquis/xai-battery-degradation/blob/86d238103c889bdc49c6b70b08a97fca04666f3a/projetv2024UFR.pdf
 
 <br>
 <br>
