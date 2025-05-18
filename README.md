@@ -60,7 +60,7 @@
 
 <a name="french-version"></a>
 
-# Version Française TODO ajouter drapeau 
+# Version Française 🇫🇷 
 
 <a name="a-propos-de-moi"></a>
 ## À propos de moi 
@@ -109,8 +109,14 @@
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) <br>
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
+  
+  shell script bash 
+  https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br>
-  Bash  
+
+
+
 - **Data Science & Machine Learning** : <br> 
 régression, clustering, séries temporelles, XAI 
 TODO : enrichir 
@@ -120,51 +126,84 @@ TODO : enrichir
 – 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br>
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) <br>
-  PyTorch
-  TensorFlow
+  PyTorch https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+  TensorFlow https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
   Numpy  
-- **Visualisation** : <br>
-  Tableau  <br>
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  <br>
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) <br>
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <br>
-  Seaborn
-  Metabase
+  Keras https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white
+
+
+- **Visualisation** :  
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+  Seaborn  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
   Omni  
-- **Backend & API** :  <br>
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) <br>
-  SQLAlchemy
-  Pydantic
+  ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+
+
+
+- **Backend & API** :  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+  SQLAlchemy  
+  Pydantic  
   PostgreSQL  
-- **Big Data / ETL** :  <br>
-  ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) <br>
-  Snowflake
-  Databricks
-- **DevOps & Qualité** :  <br>
-  CI/CD
-  tests automatisés
-  monitoring
-  SonarQube  
+
+
+
+- **Big Data / ETL** :  
+  ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)  
+  Snowflake  
+  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+
+
+- **DevOps & Qualité** :  
+  CI/CD  
+  Tests automatisés  
+  Monitoring  
+  ![SonarQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+
+
 - **Outils** :  <br>
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br>
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
-  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br>
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  github copilot 
+  https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
+   <br>
   GitHub Actions <br>
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br>
+  miro https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036
+
   Jupyter <br>
   Docker <br>
   Google Colab   <br>
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <br>
+  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+  overleaf https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
+  <br>
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <br>
 
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  <br>
-  Linux, 
-  MasOS
-  Datadog,  <br>
+
+  Datadog https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white  <br>
   Jupyter,  <br>
   Docker <br>
 
-- OS : 
+
+mysql
+  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+
+sqlite
+  https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+
+postgresql
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+
+- **Systèmes d’exploitation (OS)** :  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 <br>
 
@@ -259,6 +298,9 @@ TODO : enrichir
   - Utiliser C-SPARQL pour détecter les situations critiques  
   - Comparer approche knowledge-based vs data-driven  
 
+
+  TODO ontology 
+
 - **Techniques [d’IA / de Data Science / de ML]** : raisonnement basé sur connaissances, traitement de flux RDF, règles logiques SPARQL 🧠📡🔍  
 
 - **Langages / Outils** :  
@@ -268,8 +310,9 @@ TODO : enrichir
   - Protégé (optionnel)  
 
 - **Ressources** :  
-  - [Repo Github](TODO)  
-  - [Rapport](TODO)  
+  - [🐙 Repo GitHub](https://github.com/zoemarquis/industrial-stream-reasoning-ontology.git)  
+  - [📄 Énoncé](https://github.com/zoemarquis/industrial-stream-reasoning-ontology/blob/3cb882bbadb5c97f67b9d599e9b5caf0b026461f/resources/project-assignment.pdf)  
+  - [📘 Rapport](https://github.com/zoemarquis/industrial-stream-reasoning-ontology/blob/3cb882bbadb5c97f67b9d599e9b5caf0b026461f/resources/project-report-fr.pdf)
 
 
 <br>
@@ -302,7 +345,8 @@ TODO : enrichir
 - **Langages / Outils** :  
   ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-  ![XGBoost](https://img.shields.io/badge/XGBoost-FF4B00?style=for-the-badge&logo=xgboost&logoColor=white)  
+  ![XGBoost](https://img.shields.io/badge/XGBoost-FF4B00?style=for-the-badge&logo=xgboost&logoColor=white) 
+  TODO s 
   ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)  
   Jupyter Notebooks, Git, environnement virtuel  
@@ -471,3 +515,6 @@ https://github.com/Ileriayo/markdown-badges
 
 
 TODO : les librairies, langages, outils de chaque projet 
+
+
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
