@@ -9,33 +9,6 @@
 > ⚠️ 
 > Cette page est en cours de construction. Certaines sections peuvent être incomplètes ou sujettes à modification.
 
-
-
-<!--  
-🌐 [Portfolio](#) (*coming soon*)  
-📫 Reach me at: [zoe.marquis.zm@gmail.com](mailto:zoe.marquis.zm@gmail.com)  
--->
-
-
-
-<!-- TODO : add small resume for each public repo -->
-<!-- 
-### 🛠️ Tech Stack
-
-TODO : tout sur la même ligne 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3E4E6D?style=flat&logo=plotly&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-
-TODO : ajouter les badges dans chacune des section de mes projets  -->
-
 ---
 
 | <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zoemarquis&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zoé's GitHub stats" /></a> | <a href="https://github.com/zoemarquis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemarquis&layout=compact&theme=transparent&hide_border=true" /></a> |
@@ -97,34 +70,34 @@ Attirée par les rôles à responsabilités dans la data, j’ai développé une
 <a name="parcours-professionnel"></a>
 ## Parcours professionnel
 
-### Analytics Engineer – [**Welcome to the Jungle**](https://www.welcometothejungle.com/fr) (Paris)  
-_Février – Juillet 2025 (Stage 6 mois)_  
-- Modélisation analytique avec **dbt**  
-- Création de dashboards et mise en place de bonnes pratiques DevOps (CI/CD, tests automatisés)  
-- Automatisation de documentation, développement d’assistants IA pour les équipes métiers  
+>### Analytics Engineer – [**Welcome to the Jungle**](https://www.welcometothejungle.com/fr) (Paris)  
+>_Février – Juillet 2025 (Stage 6 mois)_  
+>- Modélisation analytique avec **dbt**  
+>- Création de dashboards et mise en place de bonnes pratiques DevOps (CI/CD, tests automatisés)  
+>- Automatisation de documentation, développement d’assistants IA pour les équipes métiers  
 
-### Data Scientist / ML Engineer – [**Solfy**](https://solfy.io) (Lille)  
-_Été 2024 (Stage 3 mois)_  
-- Développement backend d’API avec **FastAPI**, **Pydantic**, **SQLAlchemy** pour fonctionnalités B2B/B2C  
-- Analyse et suivi qualité des données pour guider les évolutions produit  
-- Livraison rapide de fonctionnalités critiques dans un contexte startup  
+>### Data Scientist / ML Engineer – [**Solfy**](https://solfy.io) (Lille)  
+>_Été 2024 (Stage 3 mois)_  
+>- Développement backend d’API avec **FastAPI**, **Pydantic**, **SQLAlchemy** pour fonctionnalités B2B/B2C  
+>- Analyse et suivi qualité des données pour guider les évolutions produit  
+>- Livraison rapide de fonctionnalités critiques dans un contexte startup  
 
-### Data Analyst – [**Decathlon Digital**](https://digital.decathlon.net) (Croix)  
-_Printemps & été 2023 (Stage 5 mois)_  
-- Développement d’outils internes pour améliorer l’efficacité opérationnelle  
-- Accompagnement à la gestion du changement après mise en place d’une nouvelle stack technique  
-- Collecte, transformation et visualisation des données pour améliorer la prise de décision  
+>### Data Analyst – [**Decathlon Digital**](https://digital.decathlon.net) (Croix)  
+>_Printemps & été 2023 (Stage 5 mois)_  
+>- Développement d’outils internes pour améliorer l’efficacité opérationnelle  
+>- Accompagnement à la gestion du changement après mise en place d’une nouvelle stack technique  
+>- Collecte, transformation et visualisation des données pour améliorer la prise de décision  
 
 <a name="formation"></a>
 ## Formation
 
-**Master Informatique – Sciences des données & systèmes complexes**  
-Université de Strasbourg, 2023-2025 (en cours, fin prévue août 2025)  
-> Master 1 : mention Très Bien, major de promotion  
+>**Master Informatique – Sciences des données & systèmes complexes**  
+>_Université de Strasbourg, 2023-2025 (en cours, fin prévue août 2025)_
+>- Master 1 : mention Très Bien, major de promotion  
 
-**Licence Informatique**  
-Université d’Artois, 2020-2023  
-> Mention Très Bien, major de promotion  
+>**Licence Informatique**  
+>_Université d’Artois, 2020-2023_
+>- Mention Très Bien, major de promotion  
 
 <a name="competences-techniques"></a>
 # Compétences techniques
@@ -168,7 +141,7 @@ TODO Techniques d'IA / DS / ML
 
 ---
 
-### 🔐 *Protection des données massives distribuées* TODO trouver titre 
+### 🔐 *Détection d’anomalies dans des systèmes de données cyber-physiques distribuées*
 
 - UE : Protection des données massives distribuées
 - **Objectif** : Détecter des anomalies dans des données cyber-physiques à travers une chaîne complète d'analyse, avec interface Web via **Streamlit**
@@ -205,72 +178,26 @@ TODO Techniques d'IA / DS / ML
 
 ---
 
+<a name="stream-reasoning"></a>
 
+### 🔧 *Stream Reasoning : Raisonnement sur flux RDF pour détecter des défaillances*
 
+- UE : Apprentissage collaboratif  
+- **Objectifs** :  
+  - Modéliser une ontologie représentant une chaîne de production industrielle  
+  - Définir des règles SPARQL pour détecter des situations de défaillance  
+  - Traiter des flux RDF simulant des données capteurs en temps réel  
+  - Utiliser C-SPARQL pour détecter les situations critiques  
+  - Comparer approche knowledge-based vs data-driven  
 
-  ## 🔧 STream reasoning :  Raisonnement basé sur les flux RDF pour la détection de situations de défaillance
+- **Outils** :  
+  ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![C-SPARQL](https://img.shields.io/badge/C--SPARQL-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxLjU1bDUuMTkgNy4wMy00LjgzIDMuNjR2NS4yNWgtMy41di01LjI1bC00LjgzLTMuNjQgNS4xOS03LjAzeiIvPjwvc3ZnPg==) (logo simplifié)  
+  Protégé (optionnel)  
 
-
-  UE : Apprentissage collaboratif 
-
-
-### 🎯 Objectifs
-- Modéliser une ontologie représentant une chaîne de production industrielle.
-- Représenter les contraintes et situations de défaillance sous forme de règles SPARQL.
-- Intégrer des flux RDF simulant des données capteurs en temps réel.
-- Utiliser C-SPARQL pour détecter des situations critiques et les injecter dans l’ontologie.
-- Analyser les avantages et limites d’une approche knowledge-based vs data-driven.
-
-faire plus simple : 
-### 🧰 Outils
-- **Java** : développement principal.
-- **C-SPARQL Engine** : moteur de raisonnement sur des flux RDF.
-- **Protégé** : modélisation de l’ontologie OWL (optionnel).
-manipulation des graphes RDF.
-
-### 📚 Ressources
-- repo github : todo 
-      - [Repo Github](TODO)
-      - [Rapport](TODO)
-
-faire plus simple et plus court que : 
-
-### 🧠 Méthodologie
-
-#### 1. Modélisation de l’ontologie
-- **Classes** :
-  - `Machine`, `Sensor`, `Property`, `Measurement`, `FailureSituation`, `Constraint`
-- **Relations** :
-  - `hasSensor`, `measures`, `hasMeasurement`, `belongsTo`, `hasConstraint`
-- **Individus** :
-  - Machines `M1` à `M4`, Capteurs `S1` à `S14`, Contraintes `c1` à `c23`
-
-#### 2. Compréhension du code de base
-- Explorer les fichiers fournis
-- Identifier le flux RDF simulé (structure, fréquence)
-- Intégrer les règles C-SPARQL dans le pipeline
-
-#### 3. Rédaction des requêtes C-SPARQL
-- 1 requête par situation critique (S1 à S14)
-- Utiliser des fenêtres glissantes (`RANGE` + `STEP`)
-- En cas de détection, instancier une classe `FailureSituation`
-
-#### 4. Analyse critique
-- **Forces** : interprétabilité, logique explicite, traçabilité des règles
-- **Limites** : seuils fixes, peu de flexibilité, scalabilité difficile
-- **Pistes d’évolution** : apprentissage automatique pour ajuster les règles
-
----
-
-### ✅ Livrables attendus
-- Code Java modifié (seuls les fichiers nécessaires)
-- Rapport PDF 4 pages :
-  1. Modélisation ontologique
-  2. Représentation et traitement des flux RDF
-  3. Requêtes C-SPARQL et détection
-  4. Analyse raisonnement symbolique vs data-driven
-
-
+- **Ressources** :  
+  - [Repo Github](TODO)  
+  - [Rapport](TODO)  
 
 
 
