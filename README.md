@@ -30,17 +30,16 @@
   - [Compétences techniques](#competences-techniques)  
   - [Projets universitaires](#projets-universitaires)
 
+    - [*Agents autonomes pour jeux de plateau*](#projet-master)
 
-TODO : les titres des projets 
-    - [Projet Master](#projet-master)
-  - [Protection des données](#projet-protection)
+<!--     
+    - [Protection des données](#projet-protection)
   - [Projet XAI](#projet-xai)
   - [Stream Reasoning](#projet-stream-reasoning)
-  - [Naiades](#projet-naiades)
+  - [Naiades](#projet-naiades) -->
 
 - [🇬🇧 English version](#english-version)  
 
-todo FAIRE L'ÉQUIVALENT 
 
 <br>
 
@@ -59,7 +58,7 @@ todo FAIRE L'ÉQUIVALENT
 
 <a name="french-version"></a>
 
-# Version Française
+# Version Française TODO ajouter drapeau 
 
 <a name="a-propos-de-moi"></a>
 ## À propos de moi 
@@ -102,79 +101,140 @@ Attirée par les rôles à responsabilités dans la data, j’ai développé une
 <a name="competences-techniques"></a>
 # Compétences techniques
 
-- **Langages** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white), ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), Bash  
-- **Data Science & Machine Learning** : régression, clustering, séries temporelles, XAI – ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), PyTorch, TensorFlow, Numpy  
-- **Visualisation** : Tableau, ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white), ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black), Seaborn, Metabase, Omni  
-- **Backend & API** : ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi), SQLAlchemy, Pydantic, PostgreSQL  
-- **Big Data / ETL** : ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white), Snowflake, Databricks, Apache Spark  
-- **DevOps & Qualité** : CI/CD, tests automatisés, monitoring, SonarQube  
-- **Outils** : ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white), ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white), GitHub Actions, ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white), Jupyter, Docker, Google Colab  
+- **Langages** : 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+TODO -> juste sql 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  Bash  
+- **Data Science & Machine Learning** : régression, clustering, séries temporelles, XAI – 
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  PyTorch
+  TensorFlow
+  Numpy  
+- **Visualisation** :
+  Tableau
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  Seaborn
+  Metabase
+  Omni  
+- **Backend & API** : 
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  SQLAlchemy
+  Pydantic
+  PostgreSQL  
+- **Big Data / ETL** : 
+  ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+  Snowflake
+  Databricks
+- **DevOps & Qualité** : 
+  CI/CD
+  tests automatisés
+  monitoring
+  SonarQube  
+- **Outils** : 
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  GitHub Actions
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  Jupyter
+  Docker
+  Google Colab  
+  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-- **Outils** : ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white), Notion, Linux, Datadog, Jupyter, Docker
-
-
-
-
----
-
-<a name="projets-universitaires"></a>
-## 🎓 Projets universitaires
-
-<a name="projet-master"></a>
-### 🎲 *Agents autonomes pour jeux de plateau*
-
-- UE : Projet de Master
-- **Objectif** : Développer des IA capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.
-- **Techniques** : Q-Learning, PPO, environnements personnalisés basés sur **OpenAI Gym**
-TODO Techniques d'IA / DS / ML 
-- **Langages / Librairies** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), PostgreSQL (🚧 autres à compléter)
-- **Ressources** :
-  - [🐙 Repo GitHub](https://github.com/zoemarquis/autonomous-board-game-agents)
-  - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)
-  - [📑 Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)
-  - [🖥️ Diapos de soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+  Linux, 
+  MasOS
+  Datadog, 
+  Jupyter, 
+  Docker
 
 <br>
 
 ---
 
-### 🔐 *Détection d’anomalies dans des systèmes de données cyber-physiques distribuées*
+<a name="projets-universitaires"></a>
 
-- UE : Protection des données massives distribuées
-- **Objectif** : Détecter des anomalies dans des données cyber-physiques à travers une chaîne complète d'analyse, avec interface Web via **Streamlit**
-- **Contenu** :
-  - Nettoyage, prétraitement, modélisation, visualisation interactive
-- **Langages / Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), (🚧 librairies à compléter)
-- **Ressources** :
-  - [🐙 Repo GitHub](https://github.com/zoemarquis/anomaly-detection-project)
-  - [📄 Énoncé](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)
-  - [📘 Rapport](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/Projet_protection_Rapport.pdf)
+## 🎓 Projets universitaires
+
+<a name="projet-master"></a>
+
+### 🎲 *Agents autonomes pour jeux de plateau*
+
+- **UE** : Projet de Master  
+- **Objectif** : Développer des IA capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.  
+- **Techniques [d’IA / de Data Science / de ML]** : Q-Learning, PPO, environnements personnalisés basés sur **OpenAI Gym** 🤖📊🧠  
+- **Langages / Librairies** : 
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+- **Ressources** :  
+  - [🐙 Repo GitHub](https://github.com/zoemarquis/autonomous-board-game-agents)  
+  - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)  
+  - [📑 Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)  
+  - [🖥️ Diapos de soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)  
+
+<br>
 
 ---
 
-### 🌊 EcoStream Analytics – *Analyse physico-chimie vs état biologique de l’eau* TODO autre titre
+<a name="projet-protection"></a>
+
+### 🔐 *Détection d’anomalies dans des systèmes de données cyber-physiques distribuées*
+
+- **UE** : Protection des données massives distribuées  
+- **Objectif** : Détecter des anomalies dans des données cyber-physiques à travers une chaîne complète d'analyse, avec interface Web via **Streamlit**.  
+- **Techniques [d’IA / de Data Science / de ML]** : nettoyage et prétraitement des données, modélisation, visualisation interactive 📈🛠️💻  
+- **Langages / Librairies / Outils** :  
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  - ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+  - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+- **Ressources** :  
+  - [🐙 Repo GitHub](https://github.com/zoemarquis/anomaly-detection-project)  
+  - [📄 Énoncé](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)  
+  - [📘 Rapport](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/Projet_protection_Rapport.pdf)  
+
+<br>
+
+---
+
+<a name="projet-naiades"></a>
+
+### 🌊 *EcoStream Analytics – Analyse physico-chimie vs état biologique de l’eau*
 
 - **UE** : Sciences des Données Appliquées aux Nouveaux Défis  
-- **Techniques** : Clustering, régression, analyse spatio-temporelle  
-- **Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)S, ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black), `seaborn`  
-- **Objectif** : Étudier la relation entre les propriétés physico-chimiques et l’indice biologique I2M2 à travers des données environnementales réelles
+- **Objectif** : Étudier la relation entre les propriétés physico-chimiques et l’indice biologique I2M2 à travers des données environnementales réelles.  
+- **Techniques [d’IA / de Data Science / de ML]** : clustering, régression, analyse spatio-temporelle 📊🌐🧪  
+- **Langages / Librairies / Outils** :  
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+  - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+  - seaborn (📌 à ajouter en badge si besoin)  
+- **Ressources** :  
+  - [🐙 Repo GitHub](https://github.com/zoemarquis/ecostream-analytics)  
+  - [📘 Notebook](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades.ipynb)  
+  - [📄 Rapport PDF](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades-MARQUIS-KRUZIC.pdf)  
+  - 📌 *TODO* : Ajouter l’énoncé, organiser les fichiers  
 
-#### 📁 Ressources :
-- [🐙 Repo GitHub](https://github.com/zoemarquis/ecostream-analytics)
-  - [📘 Notebook](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades.ipynb)
-  - [📄 Rapport PDF](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades-MARQUIS-KRUZIC.pdf)
-  - 📌 *TODO* : Ajouter l’énoncé, organiser les fichiers
+#### 🌍 Contexte & méthodologie  
+- Étude de **données spatiales et temporelles** issues de campagnes de mesure  
+- Regroupement de stations par **hydroécorégion**  
+- Prise en compte de **décalages temporels** entre mesures chimiques et réponses biologiques  
+- Application de méthodes de **clustering** pour regrouper les stations écologiquement similaires  
+- Modélisation par **régression** pour prédire l’état biologique à partir des données physico-chimiques  
 
-#### 🌍 Contexte & méthodologie :
-
-- Étude de **données spatiales et temporelles** issues de campagnes de mesure
-- Regroupement de stations par **hydroécorégion**
-- Prise en compte de **décalages temporels** entre mesures chimiques et réponses biologiques
-- Application de méthodes de **clustering** pour regrouper les stations écologiquement similaires
-- Modélisation par **régression** pour prédire l’état biologique à partir des données physico-chimiques
+<br>
 
 ---
 
@@ -182,7 +242,7 @@ TODO Techniques d'IA / DS / ML
 
 ### 🔧 *Stream Reasoning : Raisonnement sur flux RDF pour détecter des défaillances*
 
-- UE : Apprentissage collaboratif  
+- **UE** : Apprentissage collaboratif  
 - **Objectifs** :  
   - Modéliser une ontologie représentant une chaîne de production industrielle  
   - Définir des règles SPARQL pour détecter des situations de défaillance  
@@ -190,17 +250,23 @@ TODO Techniques d'IA / DS / ML
   - Utiliser C-SPARQL pour détecter les situations critiques  
   - Comparer approche knowledge-based vs data-driven  
 
-- **Outils** :  
-  ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)  
-  ![C-SPARQL](https://img.shields.io/badge/C--SPARQL-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxLjU1bDUuMTkgNy4wMy00LjgzIDMuNjR2NS4yNWgtMy41di01LjI1bC00LjgzLTMuNjQgNS4xOS03LjAzeiIvPjwvc3ZnPg==) (logo simplifié)  
-  Protégé (optionnel)  
+- **Techniques [d’IA / de Data Science / de ML]** : raisonnement basé sur connaissances, traitement de flux RDF, règles logiques SPARQL 🧠📡🔍  
+
+- **Langages / Outils** :  
+  - ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  - ![C-SPARQL](https://img.shields.io/badge/C--SPARQL-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxLjU1bDUuMTkgNy4wMy00LjgzIDMuNjR2NS4yNWgtMy41di01LjI1bC00LjgzLTMuNjQgNS4xOS03LjAzeiIvPjwvc3ZnPg==) (logo simplifié)  
+  - Protégé (optionnel)  
 
 - **Ressources** :  
   - [Repo Github](TODO)  
   - [Rapport](TODO)  
 
 
+<br>
 
+---
+
+projet xai : 
 
 
 <br>
@@ -349,3 +415,6 @@ https://github.com/Ileriayo/markdown-badges
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
 
+
+
+TODO : les librairies, langages, outils de chaque projet 
