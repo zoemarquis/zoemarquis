@@ -225,11 +225,12 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+  TODO postgresql 
 - **Ressources** :  
-  - [🐙 Repo GitHub](https://github.com/zoemarquis/autonomous-board-game-agents)  
-  - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)  
-  - [📑 Rapport final](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/final_report.pdf)  
-  - [🖥️ Diapos de soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)  
+  - [🐙 Repo GitHub](https://github.com/zoemarquis/rl-board-game.git)  
+  - [📄 Énoncé](https://github.com/zoemarquis/rl-board-game/blob/fab178f7b9c2394fcc01864b3faf2d06e491f438/resources/project-assignment-fr.pdf)  
+  - [📑 Rapport final](https://github.com/zoemarquis/rl-board-game/blob/fab178f7b9c2394fcc01864b3faf2d06e491f438/resources/project-report-fr.pdf)  
+  - [🖥️ Diapos de soutenance](https://github.com/zoemarquis/rl-board-game/blob/fab178f7b9c2394fcc01864b3faf2d06e491f438/resources/project-presentation-slideshow-fr.pdf)
 
 <br>
 
@@ -313,7 +314,6 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
   - [🐙 Repo GitHub](https://github.com/zoemarquis/industrial-stream-reasoning-ontology.git)  
   - [📄 Énoncé](https://github.com/zoemarquis/industrial-stream-reasoning-ontology/blob/3cb882bbadb5c97f67b9d599e9b5caf0b026461f/resources/project-assignment.pdf)  
   - [📘 Rapport](https://github.com/zoemarquis/industrial-stream-reasoning-ontology/blob/3cb882bbadb5c97f67b9d599e9b5caf0b026461f/resources/project-report-fr.pdf)
-
 
 <br>
 
