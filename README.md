@@ -58,12 +58,15 @@ TODO : ajouter les badges dans chacune des section de mes projets  -->
   - [Formation](#formation)  
   - [Compétences techniques](#competences-techniques)  
   - [Projets universitaires](#projets-universitaires)
-    - PROJET MASTER
-    - PROJET PROTECTION
-    - PROJET XAI
-    - PROJET STREAM REASONING
-    - PROJET NAIADES
-    - À DÉFINIR 
+
+
+TODO : les titres des projets 
+    - [Projet Master](#projet-master)
+  - [Protection des données](#projet-protection)
+  - [Projet XAI](#projet-xai)
+  - [Stream Reasoning](#projet-stream-reasoning)
+  - [Naiades](#projet-naiades)
+
 - [🇬🇧 English version](#english-version)  
 
 todo FAIRE L'ÉQUIVALENT 
@@ -97,7 +100,6 @@ Attirée par les rôles à responsabilités dans la data, j’ai développé une
 ## Parcours professionnel
 
 ### Analytics Engineer – [**Welcome to the Jungle**](https://www.welcometothejungle.com/fr) (Paris)  
-TODO AJOUTER LIENS
 _Février – Juillet 2025 (Stage 6 mois)_  
 - Modélisation analytique avec **dbt**  
 - Création de dashboards et mise en place de bonnes pratiques DevOps (CI/CD, tests automatisés)  
@@ -129,13 +131,20 @@ Université d’Artois, 2020-2023
 <a name="competences-techniques"></a>
 # Compétences techniques
 
-- **Langages** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) , Java, C/C++, Bash  
+- **Langages** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white), ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), Bash  
 - **Data Science & Machine Learning** : régression, clustering, séries temporelles, XAI – ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), PyTorch, TensorFlow, Numpy  
-- **Visualisation** : Tableau, ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), Plotly, Matplotlib, Seaborn, Metabase, Omni  
+- **Visualisation** : Tableau, ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white), ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white), ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black), Seaborn, Metabase, Omni  
 - **Backend & API** : ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi), SQLAlchemy, Pydantic, PostgreSQL  
 - **Big Data / ETL** : ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white), Snowflake, Databricks, Apache Spark  
 - **DevOps & Qualité** : CI/CD, tests automatisés, monitoring, SonarQube  
-- **Outils** : Git, GitHub Actions, Notion, Jupyter, Docker, Google Colab  
+- **Outils** : ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white), ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white), GitHub Actions, ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white), Jupyter, Docker, Google Colab  
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+- **Outils** : ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white), Notion, Linux, Datadog, Jupyter, Docker
+
+
 
 
 ---
@@ -143,8 +152,10 @@ Université d’Artois, 2020-2023
 <a name="projets-universitaires"></a>
 ## 🎓 Projets universitaires
 
-### 🎲 Projet de Master – *Agents autonomes pour jeux de plateau*
+<a name="projet-master"></a>
+### 🎲 *Agents autonomes pour jeux de plateau*
 
+- UE : Projet de Master
 - **Objectif** : Développer des IA capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.
 - **Techniques** : Q-Learning, PPO, environnements personnalisés basés sur **OpenAI Gym**
 TODO Techniques d'IA / DS / ML 
@@ -156,10 +167,12 @@ TODO Techniques d'IA / DS / ML
   - [🖥️ Diapos de soutenance](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/presentation.pdf)
 
 <br>
+
 ---
 
-### 🔐 Projet – *Protection des données massives distribuées*
+### 🔐 *Protection des données massives distribuées* TODO trouver titre 
 
+- UE : Protection des données massives distribuées
 - **Objectif** : Détecter des anomalies dans des données cyber-physiques à travers une chaîne complète d'analyse, avec interface Web via **Streamlit**
 - **Contenu** :
   - Nettoyage, prétraitement, modélisation, visualisation interactive
@@ -171,11 +184,11 @@ TODO Techniques d'IA / DS / ML
 
 ---
 
-### 🌊 EcoStream Analytics – *Analyse physico-chimie vs état biologique de l’eau*
+### 🌊 EcoStream Analytics – *Analyse physico-chimie vs état biologique de l’eau* TODO autre titre
 
 - **UE** : Sciences des Données Appliquées aux Nouveaux Défis  
 - **Techniques** : Clustering, régression, analyse spatio-temporelle  
-- **Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)S, `matplotlib`, `seaborn`  
+- **Outils** : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)S, ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black), `seaborn`  
 - **Objectif** : Étudier la relation entre les propriétés physico-chimiques et l’indice biologique I2M2 à travers des données environnementales réelles
 
 #### 📁 Ressources :
@@ -197,9 +210,11 @@ TODO Techniques d'IA / DS / ML
 
 
 
-  - ### 🚧 Apprentissage collaboratif - stream reasoning
+  ## 🔧 STream reasoning :  Raisonnement basé sur les flux RDF pour la détection de situations de défaillance
 
-  ## 🔧 Projet : Raisonnement basé sur les flux RDF pour la détection de situations de défaillance
+
+  UE : Apprentissage collaboratif 
+
 
 ### 🎯 Objectifs
 - Modéliser une ontologie représentant une chaîne de production industrielle.
@@ -208,56 +223,19 @@ TODO Techniques d'IA / DS / ML
 - Utiliser C-SPARQL pour détecter des situations critiques et les injecter dans l’ontologie.
 - Analyser les avantages et limites d’une approche knowledge-based vs data-driven.
 
----
-
+faire plus simple : 
 ### 🧰 Outils
 - **Java** : développement principal.
 - **C-SPARQL Engine** : moteur de raisonnement sur des flux RDF.
 - **Protégé** : modélisation de l’ontologie OWL (optionnel).
-- **Owlready2** : alternative Python si besoin.
-- **Maven** ou **Gradle** : gestion de dépendances.
-- **Apache Jena** / **Commons RDF** : manipulation des graphes RDF.
-- **Git** : versionnage du projet.
-
----
+manipulation des graphes RDF.
 
 ### 📚 Ressources
-- [Projet de base sur Moodle](#)
-- [Documentation C-SPARQL](http://streamreasoning.org/resources/c-sparql/)
-- [Ontologie SSN (Semantic Sensor Network)](https://www.w3.org/TR/vocab-ssn/)
-
-
-    - **Ressources** :
+- repo github : todo 
       - [Repo Github](TODO)
       - [Rapport](TODO)
 
-
-  ## 🔧 Projet : Raisonnement basé sur les flux RDF pour la détection de situations de défaillance
-
-### 🎯 Objectifs
-- Modéliser une ontologie représentant une chaîne de production industrielle.
-- Représenter les contraintes et situations de défaillance sous forme de règles SPARQL.
-- Intégrer des flux RDF simulant des données capteurs en temps réel.
-- Utiliser C-SPARQL pour détecter des situations critiques et les injecter dans l’ontologie.
-- Analyser les avantages et limites d’une approche knowledge-based vs data-driven.
-
----
-
-### 🧰 Outils
-- **Java** : développement principal.
-- **C-SPARQL Engine** : moteur de raisonnement sur des flux RDF.
-- **Protégé** : modélisation de l’ontologie OWL (optionnel).
-- **Owlready2** : alternative Python si besoin.
-- **Maven** ou **Gradle** : gestion de dépendances.
-- **Apache Jena** / **Commons RDF** : manipulation des graphes RDF.
-- **Git** : versionnage du projet.
-
----
-
-### 📚 Ressources
-repo github : 
-
----
+faire plus simple et plus court que : 
 
 ### 🧠 Méthodologie
 
