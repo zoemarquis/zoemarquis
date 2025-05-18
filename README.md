@@ -14,6 +14,18 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zoemarquis&theme=transparent&hide_border=true)
 
+TEST 
+
+
+<div align="center">
+
+| <a href="https://github.com/zoemarquis"><img src="https://github-readme-stats.vercel.app/api?username=zoemarquis&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zoé's GitHub stats" /></a> | <a href="https://github.com/zoemarquis"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemarquis&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<img src="https://streak-stats.demolab.com?user=zoemarquis&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 
 ---
 
@@ -31,7 +43,7 @@
     - [🔐 *Détection d’anomalies dans des systèmes de données cyber-physiques distribuées*](#projet-protection)
     - [🌊 *EcoStream Analytics – Analyse physico-chimie vs état biologique de l’eau*](#projet-naiades)
     - [🔧 *Stream Reasoning : Raisonnement sur flux RDF pour détecter des défaillances*](#stream-reasoning)
-    
+
   <!-- - [Projet XAI](#projet-xai) -->
 
   TODO : à compléter
@@ -62,99 +74,103 @@
 <a name="a-propos-de-moi"></a>
 ## À propos de moi 
 
-Attirée par les rôles à responsabilités dans la data, j’ai développé une expertise full stack grâce à plusieurs stages couvrant l’ensemble du cycle de vie des données. Polyvalente et curieuse, je serai diplômée d’un master en informatique en août 2025 et disponible dès septembre pour une première expérience professionnelle ou une thèse CIFRE. Je suis prête à m’investir pleinement dans des projets innovants.
+> Attirée par les rôles à responsabilités dans la data, j’ai développé une expertise full stack grâce à plusieurs stages couvrant l’ensemble du cycle de vie des données. Polyvalente et curieuse, je serai diplômée d’un master en informatique en août 2025 et disponible dès septembre pour une première expérience professionnelle ou une thèse CIFRE. Je suis prête à m’investir pleinement dans des projets innovants.
 
 
 <a name="parcours-professionnel"></a>
 ## Parcours professionnel
 
->### Analytics Engineer – [**Welcome to the Jungle**](https://www.welcometothejungle.com/fr) (Paris)  
->_Février – Juillet 2025 (Stage 6 mois)_  
->- Modélisation analytique avec **dbt**  
->- Création de dashboards et mise en place de bonnes pratiques DevOps (CI/CD, tests automatisés)  
->- Automatisation de documentation, développement d’assistants IA pour les équipes métiers  
+- ### Analytics Engineer – [**Welcome to the Jungle**](https://www.welcometothejungle.com/fr) (Paris)  
+  _Février – Juillet 2025 (Stage 6 mois)_  
+  - Modélisation analytique avec **dbt**  
+  - Création de dashboards et mise en place de bonnes pratiques DevOps (CI/CD, tests automatisés)  
+  - Automatisation de documentation, développement d’assistants IA pour les équipes métiers  
 
->### Data Scientist / ML Engineer – [**Solfy**](https://solfy.io) (Lille)  
->_Été 2024 (Stage 3 mois)_  
->- Développement backend d’API avec **FastAPI**, **Pydantic**, **SQLAlchemy** pour fonctionnalités B2B/B2C  
->- Analyse et suivi qualité des données pour guider les évolutions produit  
->- Livraison rapide de fonctionnalités critiques dans un contexte startup  
+- ### Data Scientist / ML Engineer – [**Solfy**](https://solfy.io) (Lille)  
+  _Été 2024 (Stage 3 mois)_  
+  - Développement backend d’API avec **FastAPI**, **Pydantic**, **SQLAlchemy** pour fonctionnalités B2B/B2C  
+  - Analyse et suivi qualité des données pour guider les évolutions produit  
+  - Livraison rapide de fonctionnalités critiques dans un contexte startup  
 
->### Data Analyst – [**Decathlon Digital**](https://digital.decathlon.net) (Croix)  
->_Printemps & été 2023 (Stage 5 mois)_  
->- Développement d’outils internes pour améliorer l’efficacité opérationnelle  
->- Accompagnement à la gestion du changement après mise en place d’une nouvelle stack technique  
->- Collecte, transformation et visualisation des données pour améliorer la prise de décision  
+- ### Data Analyst – [**Decathlon Digital**](https://digital.decathlon.net) (Croix)  
+  _Printemps & été 2023 (Stage 5 mois)_  
+  - Développement d’outils internes pour améliorer l’efficacité opérationnelle  
+  - Accompagnement à la gestion du changement après mise en place d’une nouvelle stack technique  
+  - Collecte, transformation et visualisation des données pour améliorer la prise de décision  
 
 <a name="formation"></a>
 ## Formation
 
->**Master Informatique – Sciences des données & systèmes complexes**  
->_Université de Strasbourg, 2023-2025 (en cours, fin prévue août 2025)_
->- Master 1 : mention Très Bien, major de promotion  
+- **Master Informatique – Sciences des données & systèmes complexes**  
+  _Université de Strasbourg, 2023-2025 (en cours, fin prévue août 2025)_
+  - Master 1 : mention Très Bien, major de promotion  
 
->**Licence Informatique**  
->_Université d’Artois, 2020-2023_
->- Mention Très Bien, major de promotion  
+- **Licence Informatique**  
+  _Université d’Artois, 2020-2023_
+  - Mention Très Bien, major de promotion  
 
 <a name="competences-techniques"></a>
 # Compétences techniques
 
-- **Langages** : 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-TODO -> juste sql 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- **Langages** : <br>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+  TOOD : changer juste sql
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) <br>
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br>
   Bash  
-- **Data Science & Machine Learning** : régression, clustering, séries temporelles, XAI – 
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **Data Science & Machine Learning** : <br> 
+régression, clustering, séries temporelles, XAI 
+TODO : enrichir 
+– 
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br>
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) <br>
   PyTorch
   TensorFlow
   Numpy  
-- **Visualisation** :
-  Tableau
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- **Visualisation** : <br>
+  Tableau  <br>
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  <br>
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) <br>
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <br>
   Seaborn
   Metabase
   Omni  
-- **Backend & API** : 
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+- **Backend & API** :  <br>
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) <br>
   SQLAlchemy
   Pydantic
   PostgreSQL  
-- **Big Data / ETL** : 
-  ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+- **Big Data / ETL** :  <br>
+  ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) <br>
   Snowflake
   Databricks
-- **DevOps & Qualité** : 
+- **DevOps & Qualité** :  <br>
   CI/CD
   tests automatisés
   monitoring
   SonarQube  
-- **Outils** : 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-  GitHub Actions
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  Jupyter
-  Docker
-  Google Colab  
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- **Outils** :  <br>
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br>
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br>
+  GitHub Actions <br>
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br>
+  Jupyter <br>
+  Docker <br>
+  Google Colab   <br>
+  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <br>
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <br>
 
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  <br>
   Linux, 
   MasOS
-  Datadog, 
-  Jupyter, 
-  Docker
+  Datadog,  <br>
+  Jupyter,  <br>
+  Docker <br>
+
+- OS : 
 
 <br>
 
@@ -172,10 +188,10 @@ TODO -> juste sql
 - **Objectif** : Développer des IA capables de jouer à des jeux de plateau selon des règles variables, via des méthodes d'apprentissage par renforcement.  
 - **Techniques [d’IA / de Data Science / de ML]** : Q-Learning, PPO, environnements personnalisés basés sur **OpenAI Gym** 🤖📊🧠  
 - **Langages / Librairies** : 
-  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 - **Ressources** :  
   - [🐙 Repo GitHub](https://github.com/zoemarquis/autonomous-board-game-agents)  
   - [📄 Énoncé](https://github.com/zoemarquis/autonomous-board-game-agents/blob/c03908edda43d2a73ad878fdb0e4da46f3a5c6b6/resources/initial_requirements.pdf)  
@@ -194,9 +210,9 @@ TODO -> juste sql
 - **Objectif** : Détecter des anomalies dans des données cyber-physiques à travers une chaîne complète d'analyse, avec interface Web via **Streamlit**.  
 - **Techniques [d’IA / de Data Science / de ML]** : nettoyage et prétraitement des données, modélisation, visualisation interactive 📈🛠️💻  
 - **Langages / Librairies / Outils** :  
-  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-  - ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
-  - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
 - **Ressources** :  
   - [🐙 Repo GitHub](https://github.com/zoemarquis/anomaly-detection-project)  
   - [📄 Énoncé](https://github.com/zoemarquis/anomaly-detection-project/blob/943a1a55fc40a48bf72e79a9a6857dca21f18d09/enonce.pdf)  
@@ -214,12 +230,12 @@ TODO -> juste sql
 - **Objectif** : Étudier la relation entre les propriétés physico-chimiques et l’indice biologique I2M2 à travers des données environnementales réelles.  
 - **Techniques [d’IA / de Data Science / de ML]** : clustering, régression, analyse spatio-temporelle 📊🌐🧪  
 - **Langages / Librairies / Outils** :  
-  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-  - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
-  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-  - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-  - seaborn (📌 à ajouter en badge si besoin)  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+  seaborn (📌 à ajouter en badge si besoin)  
 - **Ressources** :  
   - [🐙 Repo GitHub](https://github.com/zoemarquis/ecostream-analytics)  
   - [📘 Notebook](https://github.com/zoemarquis/ecostream-analytics/blob/90cd8eeb38f4287c440f8274657f46c66de912c8/naiades.ipynb)  
@@ -252,8 +268,9 @@ TODO -> juste sql
 - **Techniques [d’IA / de Data Science / de ML]** : raisonnement basé sur connaissances, traitement de flux RDF, règles logiques SPARQL 🧠📡🔍  
 
 - **Langages / Outils** :  
-  - ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)  
-  - ![C-SPARQL](https://img.shields.io/badge/C--SPARQL-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxLjU1bDUuMTkgNy4wMy00LjgzIDMuNjR2NS4yNWgtMy41di01LjI1bC00LjgzLTMuNjQgNS4xOS03LjAzeiIvPjwvc3ZnPg==) (logo simplifié)  
+  ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![C-SPARQL](https://img.shields.io/badge/C--SPARQL-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxLjU1bDUuMTkgNy4wMy00LjgzIDMuNjR2NS4yNWgtMy41di01LjI1bC00LjgzLTMuNjQgNS4xOS03LjAzeiIvPjwvc3ZnPg==) (logo simplifié)  
+  TODO : logo c sparql 
   - Protégé (optionnel)  
 
 - **Ressources** :  
